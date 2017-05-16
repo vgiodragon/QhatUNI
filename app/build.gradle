@@ -2,7 +2,7 @@ apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 23
-    buildToolsVersion "23.0.3"
+    buildToolsVersion '25.0.0'
 
     defaultConfig {
         applicationId "com.smartcity.qhatuni"
@@ -31,6 +31,5 @@ dependencies {
     compile 'com.android.support:recyclerview-v7:23.3.0'
     compile 'de.hdodenhof:circleimageview:2.0.0'
     compile 'com.qozix:tileview:2.1.4'
-    compile 'com.facebook.android:facebook-android-sdk:4.+'
     compile 'com.android.support:support-v4:23.3.0'
 }
