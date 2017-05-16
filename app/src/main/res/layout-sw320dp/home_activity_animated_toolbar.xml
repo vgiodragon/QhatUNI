@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<android.support.design.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/rootLayout"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:fitsSystemWindows="false">
+
+        <android.support.design.widget.AppBarLayout
+            android:layout_width="wrap_content"
+            android:layout_height="200dp">
+
+            <android.support.design.widget.CollapsingToolbarLayout
+                android:id="@+id/collapsing_toolbar_layout"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                app:layout_scrollFlags="scroll|exitUntilCollapsed">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/logo_nav" />
+
+
+            </android.support.design.widget.CollapsingToolbarLayout>
+
+        </android.support.design.widget.AppBarLayout>
+
+        <android.support.v4.widget.NestedScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:fitsSystemWindows="false"
+            app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="26dp"
+                    android:text="Qhatuni nace del vocablo quechua - aimara 'Qhatu' que significa 'lugar de intercambio' y UNI, las siglas de la Universidad Nacional de Ingeniería, institución reconocida nacional e internacional como uno de los centros más prestigiosos para la enseñanza de las ciencias, arquitectura e ingeniería"
+                    android:textColor="#666" />
+<!--
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Android Animated AppBar/Toolbar Tutorial" />
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Material Design ActionBar/Appbar" />
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Android Animated AppBar/Toolbar Tutorial" />
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Material Design ActionBar/Appbar" />
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Android Animated AppBar/Toolbar Tutorial" />
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Material Design ActionBar/Appbar" />
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Expanding/Collapsing Android Toolbar" />
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Expanding/Collapsing Android Toolbar" />
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Android Animated AppBar/Toolbar Tutorial" />
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Expanding/Collapsing Android Toolbar" />
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Material Design ActionBar/Appbar" />
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Expanding/Collapsing Android Toolbar" />
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Material Design ActionBar/Appbar" />
+-->
+            </LinearLayout>
+        </android.support.v4.widget.NestedScrollView>
+        <android.widget.HorizontalScrollView
+            android:id="@+id/hsv"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:fillViewport="true"
+            android:measureAllChildren="false"
+            android:scrollbars="none"
+            android:layout_gravity="bottom">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_gravity="bottom">
+
+            <!--            <ImageButton
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:src="@drawable/crisol"/> -->
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:layout_margin="@dimen/fab_margin"
+                android:id="@+id/fabCrisol"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:src="@drawable/ll"
+                app:civ_border_width="4dp"
+                app:civ_border_color="#bfe29360"/>
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:layout_margin="@dimen/fab_margin"
+                android:id="@+id/fabLibun"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:src="@drawable/libun"
+                app:civ_border_width="4dp"
+                app:civ_border_color="#bfe29360"/>
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:layout_margin="@dimen/fab_margin"
+                android:id="@+id/fabArcadia"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:src="@drawable/arcadia"
+                app:civ_border_width="4dp"
+                app:civ_border_color="#bfe29360"/>
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:layout_margin="@dimen/fab_margin"
+                android:id="@+id/fabHeraldos"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:src="@drawable/heraldos"
+                app:civ_border_width="4dp"
+                app:civ_border_color="#bfe29360"/>
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:layout_margin="@dimen/fab_margin"
+                android:id="@+id/fabPUCP"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:src="@drawable/pucp"
+                app:civ_border_width="4dp"
+                app:civ_border_color="#bfe29360"/>
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:layout_margin="@dimen/fab_margin"
+                android:id="@+id/fabEconomica"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:src="@android:drawable/ic_dialog_email"
+                app:civ_border_width="4dp"
+                app:civ_border_color="#bfe29360"/>
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:layout_margin="@dimen/fab_margin"
+                android:id="@+id/fabFamilia"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:src="@drawable/familia"
+                app:civ_border_width="4dp"
+                app:civ_border_color="#bfe29360"/>
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:layout_margin="@dimen/fab_margin"
+                android:id="@+id/fabMarcoEIRL"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:src="@drawable/macro"
+                app:civ_border_width="4dp"
+                app:civ_border_color="#bfe29360"/>
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:layout_margin="@dimen/fab_margin"
+                android:id="@+id/fabVyT"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:src="@drawable/vyt"
+                app:civ_border_width="4dp"
+                app:civ_border_color="#bfe29360"/>
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:layout_margin="@dimen/fab_margin"
+                android:id="@+id/fabCDMA"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:src="@android:drawable/ic_dialog_email"
+                app:civ_border_width="4dp"
+                app:civ_border_color="#bfe29360"/>
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:layout_margin="@dimen/fab_margin"
+                android:id="@+id/fabReverte"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:src="@drawable/reverte"
+                app:civ_border_width="4dp"
+                app:civ_border_color="#bfe29360"/>
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:layout_margin="@dimen/fab_margin"
+                android:id="@+id/fabOrem"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:src="@drawable/orem"
+                app:civ_border_width="4dp"
+                app:civ_border_color="#bfe29360"/>
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:layout_margin="@dimen/fab_margin"
+                android:id="@+id/fabPablo"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:src="@android:drawable/ic_dialog_email"
+                app:civ_border_width="4dp"
+                app:civ_border_color="#bfe29360"/>
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:layout_margin="@dimen/fab_margin"
+                android:id="@+id/fabUIGV"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:src="@drawable/uigv"
+                app:civ_border_width="4dp"
+                app:civ_border_color="#bfe29360"/>
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:layout_margin="@dimen/fab_margin"
+                android:id="@+id/fabONPE"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:src="@drawable/onpe"
+                app:civ_border_width="4dp"
+                app:civ_border_color="#bfe29360"/>
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:layout_margin="@dimen/fab_margin"
+                android:id="@+id/fabCristobal"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:src="@drawable/cristobal"
+                app:civ_border_width="4dp"
+                app:civ_border_color="#bfe29360"/>
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:layout_margin="@dimen/fab_margin"
+                android:id="@+id/fabEDUNI"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:src="@drawable/eduni"
+                app:civ_border_width="4dp"
+                app:civ_border_color="#bfe29360"/>
+
+        </LinearLayout>
+        </android.widget.HorizontalScrollView>
+    </android.support.design.widget.CoordinatorLayout>
