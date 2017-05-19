@@ -19,15 +19,12 @@ import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.ActionBarDrawerToggle;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
-import android.util.Log;
-import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.ImageView;
-import android.widget.Toast;
 
-import com.smartcity.qhatuni.Carousel.CaruselFragment;
 import com.smartcity.qhatuni.EditorialesBecas.PagerFragment;
+import com.smartcity.qhatuni.GMapa.MapaFragment;
 
 import java.util.List;
 
@@ -156,7 +153,7 @@ public class MainActivity extends AppCompatActivity
             case R.id.feria:
                 getSupportFragmentManager().beginTransaction()
                         .setCustomAnimations(R.anim.enter,R.anim.exit,R.anim.pop_enter,R.anim.pop_exit)
-                        .replace(R.id.principal,new CaruselFragment()).addToBackStack(null).commit();
+                        .replace(R.id.principal,new MapaFragment()).addToBackStack(null).commit();
                 break;
             case R.id.cronog:
                 getSupportFragmentManager().beginTransaction()
