@@ -2,5 +2,7 @@
 <resources>
     <color name="colorPrimary">#BA7E5D</color>
     <color name="colorPrimaryDark">#ffe4b5</color>
+    <color name="colorPolygonCentro">#55eeeeee</color>
+    <color name="colorPolygonBorde">#55990000</color>
     <color name="colorAccent">#FF4081</color>
 </resources>

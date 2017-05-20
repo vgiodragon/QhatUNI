@@ -1,9 +1,9 @@
 package com.smartcity.qhatuni.GMapa;
 
-import android.content.Context;
 import android.net.Uri;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
+import android.support.v4.content.ContextCompat;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.LayoutInflater;
@@ -29,6 +29,7 @@ import com.smartcity.qhatuni.EditorialesBecas.DetailStand;
 import com.smartcity.qhatuni.R;
 
 import java.util.ArrayList;
+import java.util.Calendar;
 
 
 /**
@@ -93,7 +94,7 @@ public class MapaFragment extends Fragment implements OnMapReadyCallback,
         }
         polygons = new ArrayList<>();
         markers = new ArrayList<>();
-        zonas = new ArrayList<>();zonas.add("Zona Libros");zonas.add("Zona Becas");zonas.add("Zona Institucional");
+        zonas = new ArrayList<>();zonas.add("Zona Libros");zonas.add("Zona Becas y Zona Institucional");
     }
 
     @Override
@@ -120,40 +121,35 @@ public class MapaFragment extends Fragment implements OnMapReadyCallback,
         return view;
     }
 
-
-
     @Override
     public void onMapReady(GoogleMap googleMap) {
         mMap = googleMap;
-
-    }
-
-    public void setZona(){
-        double Lan1 =-12.017713;
-        double Lon1 =-77.049441;
-        double espX = 0.000006;
-        double espY = 0.000029;
-
-    }
-
-
-    public void setStands(){
-        setPolygons();
-        setLogoStand();
+        mMap.setMapType(GoogleMap.MAP_TYPE_SATELLITE);
 
         mMap.setOnInfoWindowClickListener(new GoogleMap.OnInfoWindowClickListener() {
             @Override
             public void onInfoWindowClick(Marker marker) {
-                String titulo=marker.getTitle().toLowerCase();
+                String titulo=marker.getTitle();
                 Log.d("GIOMAPA",titulo);
                 String salta="museo";
                 if(titulo.equals("Museo Andrés Del Castillo")){
                     salta="museo";
                 }else if (titulo.equals("Fondo de Cultura Económica"))
                     salta="fondodecultura";
-                    else
-                    salta=titulo;
-
+                else if (titulo.equals("Mancomunidad de Lima Norte"))
+                    salta="mcln";
+                else if (titulo.equals("Oficina Central de Cooperación Internacional y Convenios"))
+                    salta="occic";
+                else if (titulo.equals("Beca Santander"))
+                    salta="bs";
+                else if (titulo.equals("Colegio de Ingenieros del Perú"))
+                    salta="cip";
+                else if (titulo.equals("Alianza Francesa"))
+                    salta="af";
+                else if (titulo.equals("Escuela Central de Posgrado"))
+                    salta="posgrado";
+                else
+                    salta=titulo.toLowerCase();//Beca Santander;
                 Bundle arguments = new Bundle();
                 //String name;
                 //final BuildingStand item = name;
@@ -166,6 +162,18 @@ public class MapaFragment extends Fragment implements OnMapReadyCallback,
             }
         });
 
+
+        setStands();
+    }
+
+    public void setStands(){
+        CameraPosition currentPlace = new CameraPosition.Builder()
+                .target(new LatLng(-12.017677, -77.049202))
+                .bearing(50f).zoom(20.5f).build();
+
+        mMap.moveCamera(CameraUpdateFactory.newCameraPosition(currentPlace));//-12.017711, -77.049428
+        setPolygons();
+        setLogoStand();
     }
 
     public void setLogoStand(){
@@ -214,40 +222,72 @@ public class MapaFragment extends Fragment implements OnMapReadyCallback,
     }
 
     public void setLogoBecas(){
-        double Lan1 =-12.017713;
-        double Lon1 =-77.049441;
-        double espX = 0.000006;
-        double espY = 0.000029;
+        double Lan1 =-12.017780;
+        double Lon1 =-77.049407;
+        double espX = -0.000028;
+        double espY = -0.000003;
         int i=0;
         ArrayList<mMarker> mMarkers = new ArrayList<>();
-        mMarkers.add(new mMarker(R.drawable.museo,"Museo Andrés Del Castillo",new LatLng(Lan1+espX*i, Lon1+espY*i))); i++;
-        mMarkers.add(new mMarker(R.drawable.meduni,"EDUNI",new LatLng(Lan1+espX*i, Lon1+espY*i))); i++;
-        mMarkers.add(new mMarker(R.drawable.meduni,"EDUNI",new LatLng(Lan1+espX*i, Lon1+espY*i))); i++;////UNMSM
-        mMarkers.add(new mMarker(R.drawable.meduni,"EDUNI",new LatLng(Lan1+espX*i, Lon1+espY*i))); i++; /// PATRIMONIO
-        mMarkers.add(new mMarker(R.drawable.mlibun,"LIBUN",new LatLng(Lan1+espX*i, Lon1+espY*i))); i++;
-        mMarkers.add(new mMarker(R.drawable.mlibun,"LIBUN",new LatLng(Lan1+espX*i, Lon1+espY*i))); i++; ///6.- UPC
-        mMarkers.add(new mMarker(R.drawable.mlibun,"LIBUN",new LatLng(Lan1+espX*i, Lon1+espY*i))); i++; ///7.- PLANETA
-        mMarkers.add(new mMarker(R.drawable.marcadia,"ARCADIA",new LatLng(Lan1+espX*i, Lon1+espY*i))); i++;
-        mMarkers.add(new mMarker(R.drawable.mmacro,"MACRO",new LatLng(Lan1+espX*i, Lon1+espY*i))); i++;
-        mMarkers.add(new mMarker(R.drawable.mlumbreras,"LUMBRERAS",new LatLng(Lan1+espX*i, Lon1+espY*i))); i++;
-        mMarkers.add(new mMarker(R.drawable.mreverte,"REVERTE",new LatLng(Lan1+espX*i, Lon1+espY*i))); i++;
-        mMarkers.add(new mMarker(R.drawable.mmacro,"MACRO",new LatLng(Lan1+espX*i, Lon1+espY*i))); i++;///12.-LOS LIBROS MAS PEQUEÑOS DEL MUNDO
-        mMarkers.add(new mMarker(R.drawable.mcydma,"CYDMA",new LatLng(Lan1+espX*i, Lon1+espY*i))); i++;//13.- LIBROS MIR - LIBROS URSS
-        mMarkers.add(new mMarker(R.drawable.mfondodecultura,"Fondo de Cultura Económica",new LatLng(Lan1+espX*i, Lon1+espY*i))); i++; ///1
-        mMarkers.add(new mMarker(R.drawable.mcydma,"CYDMA",new LatLng(Lan1+espX*i, Lon1+espY*i))); i++;
+        mMarkers.add(new mMarker(R.drawable.museo,"Museo Andrés Del Castillo",new LatLng(Lan1+espX*i, Lon1+espY*i))); i++;// 23
+        mMarkers.add(new mMarker(R.drawable.mocad,"OCAD",new LatLng(Lan1+espX*i, Lon1+espY*i))); i++;
+        mMarkers.add(new mMarker(R.drawable.mcepreuni,"CEPRE",new LatLng(Lan1+espX*i, Lon1+espY*i))); i++;
+        mMarkers.add(new mMarker(R.drawable.meduni,"EDUNI",new LatLng(Lan1+espX*i, Lon1+espY*i))); i++; ///26 CENTRO DE ENERGIAS RENOVABLES
+        mMarkers.add(new mMarker(R.drawable.mmancomunidad,"Mancomunidad de Lima Norte",new LatLng(Lan1+espX*i, Lon1+espY*i))); i++;///27
+        mMarkers.add(new mMarker(R.drawable.mlibun,"LIBUN",new LatLng(Lan1+espX*i, Lon1+espY*i))); i++; ///28 Tratamiento de Aguas REsiduales - FIA
+        mMarkers.add(new mMarker(R.drawable.mlibun,"LIBUN",new LatLng(Lan1+espX*i, Lon1+espY*i))); i++; ///29  Proyecta UNI
+        mMarkers.add(new mMarker(R.drawable.mcip,"Colegio de Ingenieros del Perú",new LatLng(Lan1+espX*i, Lon1+espY*i))); i++;
+        mMarkers.add(new mMarker(R.drawable.mmacro,"MACRO",new LatLng(Lan1+espX*i, Lon1+espY*i))); i++;//31 Instituto General de Investigación UNI
+        mMarkers.add(new mMarker(R.drawable.mmacro,"MACRO",new LatLng(Lan1+espX*i, Lon1+espY*i))); i++;//32 INICTEL
 
         i=0;
-        Lan1 =-12.017708;  Lon1 = -77.049207;
-        espX = 0.000006;
-        espY = 0.000029;
-        mMarkers.add(new mMarker(R.drawable.mlibun,"LIBUN",new LatLng(Lan1+espX*i, Lon1+espY*i))); i++; ///22.- Careal
-        mMarkers.add(new mMarker(R.drawable.marcadia,"ARCADIA",new LatLng(Lan1+espX*i, Lon1+espY*i))); i++; ///21.- U LA MOLINA
-        mMarkers.add(new mMarker(R.drawable.mmacro,"MACRO",new LatLng(Lan1+espX*i, Lon1+espY*i))); i++; /// 20.- CAYETANO
-        mMarkers.add(new mMarker(R.drawable.mpucp,"PUCP",new LatLng(Lan1+espX*i, Lon1+espY*i))); i++;
-        mMarkers.add(new mMarker(R.drawable.mreverte,"REVERTE",new LatLng(Lan1+espX*i, Lon1+espY*i))); i++;// 19.- PAULINAS
-        mMarkers.add(new mMarker(R.drawable.mmacro,"MACRO",new LatLng(Lan1+espX*i, Lon1+espY*i))); i++;/// 18.- PAULINAS
-        mMarkers.add(new mMarker(R.drawable.mcydma,"CYDMA",new LatLng(Lan1+espX*i, Lon1+espY*i))); i++; /// 17.- IBERO
-
+        Lan1 =-12.017799;  Lon1 = -77.049475;
+        espX = -0.000029;        espY = 0.000001;
+        Calendar calendar = Calendar.getInstance();
+        int day = calendar.get(Calendar.DAY_OF_WEEK);
+        mMarkers.add(new mMarker(R.drawable.moccic,"Oficina Central de Cooperación Internacional y Convenios",new LatLng(Lan1+espX*i, Lon1+espY*i))); i++; ///33 Cooperacion
+        mMarkers.add(new mMarker(R.drawable.marcadia,"ARCADIA",new LatLng(Lan1+espX*i, Lon1+espY*i))); i++; ///34 BECAS
+        mMarkers.add(new mMarker(R.drawable.mmacro,"MACRO",new LatLng(Lan1+espX*i, Lon1+espY*i))); i++; /// 35 OFICINA INTERNACIONAL PARA MIGRACIONES
+        mMarkers.add(new mMarker(R.drawable.mfulbright,"FULBRIGHT",new LatLng(Lan1+espX*i, Lon1+espY*i))); i++;
+        if(day==Calendar.THURSDAY|| day==Calendar.FRIDAY) {
+            mMarkers.add(new mMarker(R.drawable.mconcytec, "CONCYTEC", new LatLng(Lan1 + espX * i, Lon1 + espY * i)));
+            i++;// 37
+        }
+        else{
+            mMarkers.add(new mMarker(R.drawable.mdaad, "DAAD", new LatLng(Lan1 + espX * i, Lon1 + espY * i)));
+            i++;// 37
+        }
+        if(day==Calendar.TUESDAY) {
+            mMarkers.add(new mMarker(R.drawable.mdaad, "DAAD", new LatLng(Lan1 + espX * i, Lon1 + espY * i)));
+            i++;// 38 CAMPUS FRANCE
+        }
+        else if(day==Calendar.WEDNESDAY){
+            mMarkers.add(new mMarker(R.drawable.msatander, "Beca Santander", new LatLng(Lan1 + espX * i, Lon1 + espY * i)));
+            i++;
+        }else{
+            mMarkers.add(new mMarker(R.drawable.mconcytec, "IAESTE", new LatLng(Lan1 + espX * i, Lon1 + espY * i)));
+            i++;// 38 IAESTE
+        }
+        if(day==Calendar.THURSDAY|| day==Calendar.FRIDAY) {
+            mMarkers.add(new mMarker(R.drawable.mmunibecas, "MUNIBECAS", new LatLng(Lan1 + espX * i, Lon1 + espY * i)));
+            i++;// 39
+        }
+        else{
+            mMarkers.add(new mMarker(R.drawable.malianzafrancesa, "Alianza Francesa", new LatLng(Lan1 + espX * i, Lon1 + espY * i)));
+            i++;// 39
+        }
+        if(day==Calendar.TUESDAY) {
+            mMarkers.add(new mMarker(R.drawable.mdaad, "DAAD", new LatLng(Lan1 + espX * i, Lon1 + espY * i)));
+            i++;// 40 CENTRO EDUCACION USA
+        }
+        else if(day==Calendar.WEDNESDAY){
+            mMarkers.add(new mMarker(R.drawable.msatander, "Beca Santander", new LatLng(Lan1 + espX * i, Lon1 + espY * i)));
+            i++;///EMBAJADA DE JAPON
+        }else{
+            mMarkers.add(new mMarker(R.drawable.monpe, "ONPE", new LatLng(Lan1 + espX * i, Lon1 + espY * i)));
+            i++;// 40 ONPE
+        }
+        mMarkers.add(new mMarker(R.drawable.mpronabec,"PRONABEC",new LatLng(Lan1+espX*i, Lon1+espY*i))); i++; ///41
+        mMarkers.add(new mMarker(R.drawable.mposgrado,"Escuela Central de Posgrado",new LatLng(Lan1+espX*i, Lon1+espY*i))); i++; /// 42
 
         for(int j=0;j<mMarkers.size();j++){
             mMarker marker = mMarkers.get(j);
@@ -262,8 +302,18 @@ public class MapaFragment extends Fragment implements OnMapReadyCallback,
         //ArrayList<LatLng> vertices;
         PolygonOptions polygonOptions;
         polygonOptions= new PolygonOptions();
-        polygonOptions.add(new LatLng(-12.017708, -77.049451)); polygonOptions.add(new LatLng(-12.017725, -77.049447));
-        polygonOptions.add(new LatLng(-12.017602, -77.048763)); polygonOptions.add(new LatLng(-12.017587, -77.048766));
+        polygonOptions.strokeColor(ContextCompat.getColor(getContext(), R.color.colorPolygonBorde));
+        polygonOptions.fillColor(ContextCompat.getColor(getContext(), R.color.colorPolygonCentro));
+        polygonOptions.add(new LatLng(-12.017687, -77.049464)); polygonOptions.add(new LatLng(-12.017600, -77.049007));
+        polygonOptions.add(new LatLng(-12.017681, -77.048979)); polygonOptions.add(new LatLng(-12.017723, -77.049203));
+        polygonOptions.add(new LatLng(-12.017701, -77.049233));polygonOptions.add(new LatLng(-12.017743, -77.049443));
+        polygons.add(mMap.addPolygon(polygonOptions));
+
+        polygonOptions= new PolygonOptions();
+        polygonOptions.strokeColor(ContextCompat.getColor(getContext(), R.color.colorPolygonBorde));
+        polygonOptions.fillColor(ContextCompat.getColor(getContext(), R.color.colorPolygonCentro));
+        polygonOptions.add(new LatLng(-12.017766, -77.049511)); polygonOptions.add(new LatLng(-12.017743, -77.049388));
+        polygonOptions.add(new LatLng(-12.018036, -77.049415)); polygonOptions.add(new LatLng(-12.018075, -77.049486));
         polygons.add(mMap.addPolygon(polygonOptions));
     }
 
@@ -271,18 +321,14 @@ public class MapaFragment extends Fragment implements OnMapReadyCallback,
     public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
         if(markers.size()>0) for (Marker marker : markers) marker.remove();
         if(position==0){
-            CameraPosition currentPlace = new CameraPosition.Builder()
-                    .target(new LatLng(-12.017708, -77.049207))
-                    .bearing(80f).zoom(20).build();
-
-            mMap.moveCamera(CameraUpdateFactory.newCameraPosition(currentPlace));//-12.017711, -77.049428
 
             setStands();
         }else if(position==1){
             CameraPosition currentPlace = new CameraPosition.Builder()
-                    .target(new LatLng(-12.017804, -77.049461))
-                    .bearing(80f).zoom(20).build();
+                    .target(new LatLng(-12.017914, -77.049454))
+                    .bearing(-10f).zoom(21).build();
             mMap.moveCamera(CameraUpdateFactory.newCameraPosition(currentPlace));//-12.017711, -77.049428
+            setLogoBecas();
         }
     }
 

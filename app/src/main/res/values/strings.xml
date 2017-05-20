@@ -348,45 +348,45 @@ Correo: eduni.uni@gmail.com / eduni@uni.edu.pe
 
     <!--INFORMACION BECAS-->
 
-    <string name="nombre_becas_beca18">Beca 18</string>
-    <string name="info_becas_beca18">
+    <string name="nombre_stand_beca18">Beca 18</string>
+    <string name="info_stand_beca18">
         Programa de Beca del Estado Peruano que busca que los jóvenes, hombres y mujeres, con alto rendimiento académico y de bajos recursos económicos puedan acceder y concluir su formación académica técnica y/o profesional en reconocidas universidades e institutos, brindándoles oportunidades de desarrollo que les permita incorporarse socialmente en la educación superior.
     </string>
-    <string name="contacto_becas_beca18">
+    <string name="contacto_stand_beca18">
         LÍNEA GRATUITA: 0800-00018
         CENTRAL TELEFÓNICA: (01) 612-8230
         AV. AREQUIPA 1935, LINCE- LIMA
         HORARIO DE ATENCIÓN: LUNES A VIERNES DE 08:15 AM. A 05:00 PM.
 
     </string>
-    <string name="pagina_becas_beca18">http://www.pronabec.gob.pe/2016_Beca18.php</string>
+    <string name="pagina_stand_beca18">http://www.pronabec.gob.pe/2016_Beca18.php</string>
 
 
-    <string name="nombre_becas_occic">Oficina Central de Cooperación Internacional y Convenios</string>
-    <string name="info_becas_occic">
+    <string name="nombre_stand_occic">Oficina Central de Cooperación Internacional y Convenios</string>
+    <string name="info_stand_occic">
         La Oficina General de Cooperación Internacional y Convenios (OCCIC) pone a disposición información sobre estudios y actividades a desarrollarse en el extranjero.
 
 En esta oficina podrá encontrar las diferentes formas de contactarse con instituciones externas, como son los programas de Cooperación, Becas, Convenios, Redes Universitarias y otros; de tal forma que los interesados puedan contar con información básica para iniciar su vinculación con diversas instituciones del extranjero y estar en posibilidad de desarrollar una serie de actividades académicas, culturales y de investigación de particular interés.
 
 Asimismo, se informa sobre los diversos trámites que se deben conocer para iniciar o continuar estudios en nuestra institución: la reválida de Grados y Títulos de Estudios Cursados en el Extranjero, de manera especial para personas que se encuentran fuera del territorio nacional; procedimientos para obtener una carta de presentación institucional, entre otras gestiones.
     </string>
-    <string name="contacto_becas_occic">
+    <string name="contacto_stand_occic">
         Teléfono: 4824770 4811070  Anexo 546
         Correo: cooperacion@uni.edu.pe
 
     </string>
-    <string name="pagina_becas_occic">http://cooperacion.uni.edu.pe/site/</string>
+    <string name="pagina_stand_occic">http://cooperacion.uni.edu.pe/site/</string>
 
 
-    <string name="nombre_becas_pronabec">PRONABEC</string>
-    <string name="info_becas_pronabec">
+    <string name="nombre_stand_pronabec">PRONABEC</string>
+    <string name="info_stand_pronabec">
         El Programa Nacional de Becas y Crédito Educativo encargado de diseñar, implementar y administrar los programas de becas nacionales e internacionales, despliega todos los recursos y empeño necesarios para asumir los siguientes compromisos:
 Garantizar el correcto y equitativo otorgamiento de Beca 18 a nivel nacional según la población beneficiaria, estableciendo criterios de inclusión social para que los becarios tengan acceso, permanencia y culminación a una educación superior de calidad en instituciones de calidad.
 Garantizar que los postulantes que cumplan el perfil establecido, accedan al proceso de postulación en igualdad de condiciones y de manera transparente e independiente, siendo becados utilizando criterios de calidad, dentro del marco de la ley y los compromisos adquiridos con las instituciones de educación superior.
 Lograr la satisfacción de los postulantes a Beca 18.
 Promover el desarrollo profesional del personal de la institución para lograr el compromiso con la mejora continua de los procesos donde estén involucrados y el desarrollo sinérgico del trabajo.
     </string>
-    <string name="contacto_becas_pronabec">
+    <string name="contacto_stand_pronabec">
         LÍNEA GRATUITA: 0800-00018
         CENTRAL TELEFÓNICA: (01) 612-8230
         AV. AREQUIPA 1935, LINCE- LIMA
@@ -395,67 +395,67 @@ Promover el desarrollo profesional del personal de la institución para lograr e
 
 
 
-    <string name="pagina_becas_pronabec">http://www.pronabec.gob.pe/</string>
+    <string name="pagina_stand_pronabec">http://www.pronabec.gob.pe/</string>
 
 
-    <string name="nombre_becas_cip">Colegio de Ingenieros del Perú</string>
-    <string name="info_becas_cip">
+    <string name="nombre_stand_cip">Colegio de Ingenieros del Perú</string>
+    <string name="info_stand_cip">
         Somos una institución deontológico, sin fines de lucro, que representa y agrupa a los ingenieros profesionales del Perú, de todas las especialidades, que cautela y preserva el comportamiento ético de sus miembros, y debe asegurar al Perú que cuenta con una profesión nacional que ejerce la ingeniería en un contexto de orden, respeto, competitividad, calidad y ética, y que está enraizada en sus valores sociales, culturales y políticos, como base fundamental en el proceso de desarrollo de la nación.
     </string>
-    <string name="contacto_becas_cip">
+    <string name="contacto_stand_cip">
         Av. Arequipa Nº 4947
 Miraflores, Lima - Perú
         Telf: (+51 1) 445 - 6540
 
     </string>
-    <string name="pagina_becas_cip">http://www.cip.org.pe/</string>
+    <string name="pagina_stand_cip">http://www.cip.org.pe/</string>
 
 
-    <string name="nombre_becas_mac">Museo Andrés del Castillo</string>
-    <string name="info_becas_mac">
+    <string name="nombre_stand_mac">Museo Andrés del Castillo</string>
+    <string name="info_stand_mac">
         Este conjunto de ciencia, historia y cultura ubicado en la Casa Belén lleva el nombre de Andrés Del Castillo Rey (1985-2006).
 
 Hemos construido este hermoso Museo como una contribución al desarrollo y conocimiento de nuestro país. En la Sala de Minería, presentamos la colección más importante de minerales cristalizados que existe en el Perú. La Cerámica Chancay de presencia hasta hace pocos años sólo en jardines, se presenta en lugar preferente, donde resalta su gran variedad. Se exhibe también por primera vez la vestimenta y la forma de vida de los antiguos peruanos.
     </string>
-    <string name="contacto_becas_mac">
+    <string name="contacto_stand_mac">
         Jr. De La Unión 1030. Lima 1. Perú
         Telf. 511.433.2831
         museo@mdh.com.pe
         museo@madc.com.pe
 
     </string>
-    <string name="pagina_becas_mac">http://www.madc.com.pe/</string>
+    <string name="pagina_stand_mac">http://www.madc.com.pe/</string>
 
 
-    <string name="nombre_becas_tullpi">Tullpi</string>
-    <string name="info_becas_tullpi">
+    <string name="nombre_stand_tullpi">Tullpi</string>
+    <string name="info_stand_tullpi">
         Tullpi S.A.C desarrolla: una plataforma de juegos educativos orientados al aprendizaje de conceptos básicos de matemática y lógica. Usando una tecnología que permite interconectar una interfaz tangible compuesta por un tablero y tapas de botellas, el niño es capaz de interactuar con los juegos digitales.
     </string>
-    <string name="contacto_becas_tullpi">
+    <string name="contacto_stand_tullpi">
         Teléfono: +51-950-862-507.
             E-mail: hello@tullpi.com
 
     </string>
-    <string name="pagina_becas_tullpi">http://www.tullpi.com/</string>
+    <string name="pagina_stand_tullpi">http://www.tullpi.com/</string>
 
 
-    <string name="nombre_becas_concytec">CONCYTEC</string>
-    <string name="info_becas_concytec">
+    <string name="nombre_stand_concytec">CONCYTEC</string>
+    <string name="info_stand_concytec">
         El CONCYTEC, es la institución rectora del Sistema Nacional de Ciencia y Tecnología e Innovación Tecnológica, SINACYT, integrada por la Academia, los Institutos de Investigación del Estado, las organizaciones empresariales, las comunidades y la sociedad civil. Esta regida por la Ley Marco de Ciencia y Tecnología N° 28303.
 
 Tiene por finalidad normar, dirigir, orientar, fomentar, coordinar, supervisar y evaluar las acciones del Estado en el ámbito de la Ciencia, Tecnología e Innovación Tecnológica y promover e impulsar su desarrollo mediante la acción concertada y la complementariedad entre los programas y proyectos de las instituciones públicas, académicas, empresariales organizaciones sociales y personas integrantes del SINACYT. Para ello, una de las primeras tareas a realizar es la de articular todos los organismos y recursos del sector en función de los objetivos y políticas nacionales de desarrollo establecidos dentro de las leyes que nos rigen y dentro de las políticas señaladas por nuestro actual Gobierno, en particular en el marco del ""Plan Nacional de Ciencia y Tecnología e Innovación para la Competitividad y el Desarrollo Humano 2006-2021"". Se continuará así, promoviendo la capacidad nacional de generación de conocimientos científicos y tecnológicos, mediante la investigación; conocimientos que puedan ser incorporadas a los bienes y servicios que el país debe producir y en lo posible exportar.
     </string>
-    <string name="contacto_becas_concytec">
+    <string name="contacto_stand_concytec">
         Calle Grimaldo del Solar N° 346 - Miraflores.
 Lima - Perú
 Central Telef.: 0051-1-399-0030
 comunicacion@concytec.gob.pe
     </string>
-    <string name="pagina_becas_concytec">https://portal.concytec.gob.pe/</string>
+    <string name="pagina_stand_concytec">https://portal.concytec.gob.pe/</string>
 
 
-    <string name="nombre_becas_fulbright">Fulbright</string>
-    <string name="info_becas_fulbright">
+    <string name="nombre_stand_fulbright">Fulbright</string>
+    <string name="info_stand_fulbright">
         La Comisión para el Intercambio Educativo entre el Perú y los Estados Unidos - Comisión Fulbright - es una organización binacional sin fines de lucro, establecida en 1956 mediante un convenio entre los gobiernos del Perú y los Estados Unidos. La Comisión administra el prestigioso programa de becas Fulbright y ofrece los servicios del Centro de Asesoría Educativa para peruanos interesados en estudiar en los Estados Unidos.
 
 El programa de becas Fulbright agrupa una variedad de becas de intercambio para ciudadanos peruanos y de los Estados Unidos.
@@ -464,14 +464,14 @@ Desde su creación, la Comisión Fulbright ha otorgado más de 2,000 becas para 
 
 Pocas oportunidades enriquecen la vida profesional y personal como una beca Fulbright. Experimentar una cultura diferente, establecer relaciones de colaboración con colegas en el Perú y los Estados Unidos y compartir nuevos horizontes son parte de la ""experiencia Fulbright"". Los becarios de los Estados Unidos retornan a su país para promover una mejor comprensión acerca de la cultura peruana, aportan importantes contribuciones a la vida académica del país y ofrecen la posibilidad de establecer vínculos entre instituciones de ambos países. Los becarios peruanos enriquecen las universidades de los Estados Unidos y retornan al Perú para contribuir en una variedad de disciplinas, desde las humanidades y las artes, hasta las ciencias, los negocios y las relaciones internacionales.
     </string>
-    <string name="contacto_becas_fulbright">
+    <string name="contacto_stand_fulbright">
         Juan Romero Hidalgo 444 San Borja, Lima 41, Perú(51-1) 475-3083     |     (51-1) 476-0722    |     (51-1) 476-0666Para información general sobre la Comisión Fulbright: mfernandez@fulbright.pe
     </string>
-    <string name="pagina_becas_fulbright">http://www.fulbright.pe/</string>
+    <string name="pagina_stand_fulbright">http://www.fulbright.pe/</string>
 
 
-    <string name="nombre_becas_mcln">Mancomunidad de Lima Norte</string>
-    <string name="info_becas_mcln">
+    <string name="nombre_stand_mcln">Mancomunidad de Lima Norte</string>
+    <string name="info_stand_mcln">
         Es la unión de nueve (9) Municipalidades distritales de Lima Norte y el Callao, que buscan fomentar el progreso de sus comunidades de manera conjunta elaborando y desarrollando proyectos que por su magnitud superan el ámbito jurisdiccional y las posibilidades individuales de cada gobierno Local.
 
 La Mancomunidad de Lima Norte ejecuta acciones, convenios y proyectos conjuntos promoviendo el desarrollo local, elaborando, gestionando, e implementando proyectos ante entidades nacionales e internacionales, para buscar financiamiento y viabilidad de ejecución.
@@ -480,66 +480,66 @@ Los entes asociados procuran mejores niveles de eficacia y eficiencia en la gest
 
 Desarrollan e implementan planes y experiencias conjuntas de desarrollo de capacidades, asistencia técnica e investigación tecnológica en convenio con entidades educativas públicas y privadas.
     </string>
-    <string name="contacto_becas_mcln">
+    <string name="contacto_stand_mcln">
         Los Olivos, Independencia, Comas, Carabayllo, Puente Piedra, Santa Rosa y Ancón
     </string>
-    <string name="pagina_becas_mcln">http://www.mancomunidadlimanorte.gob.pe/</string>
+    <string name="pagina_stand_mcln">http://www.mancomunidadlimanorte.gob.pe/</string>
 
 
-    <string name="nombre_becas_muni">Munibecas</string>
-    <string name="info_becas_muni">
+    <string name="nombre_stand_munibecas">Munibecas</string>
+    <string name="info_stand_munibecas">
         Desde el 2007 la Municipalidad Metropolitana de Lima inicio el Programa Becas a la Excelencia, para impulsar el liderazgo en los jóvenes y empoderarlos con una educación que les permita liderar grandes cambios. De esta forma se permitió a más de 2,500 postulantes participar en tres convocatorias para becas a nivel nacional, beneficiando 800 becarios gracias al apoyo y colaboración de alrededor de 200 instituciones educativas aliadas del programa, marcando positivamente el futuro de muchos jóvenes. Hoy, cinco años después, internacionalizamos el programa y lanzamos su cuarta edición desde un portal interactivo y una aplicación móvil que permite una comunicación más fluida con los postulantes y muchas más oportunidades de acceder a una educación de excelencia. Estamos más convencidos que nunca, que la educación es la llave del desarrollo y por ello, el programa Becas a la Excelencia será una oportunidad innovadora, entre el talento y el éxito.
     </string>
-    <string name="contacto_becas_muni">
+    <string name="contacto_stand_munibecas">
 
     </string>
-    <string name="pagina_becas_muni">http://www.munlima.gob.pe/becasalaexcelencia/</string>
+    <string name="pagina_stand_munibecas">http://www.munlima.gob.pe/becasalaexcelencia/</string>
 
 
-    <string name="nombre_becas_af">Alianza Francesa</string>
-    <string name="info_becas_af">
+    <string name="nombre_stand_af">Alianza Francesa</string>
+    <string name="info_stand_af">
         Alianza Francesa de Lima es una asociación cultural sin fines de lucro, dedicada, desde hace más de 120 años, a la enseñanza del idioma francés, la difusión de la cultura francesa y el diálogo cultural franco-peruano, contribuyendo así a la formación de generaciones de destacados peruanos en el mundo intelectual, cultural y artístico.
 Nuestro sistema de enseñanza está acorde con los más innovadores métodos y exigencias mundiales, lo que nos permite mantenernos a la vanguardia en la enseñanza del idioma francés en el Perú; asimismo, nuestros docentes cuentan con certificaciones DALF (Diplôme approfondi de Langue Française) emitidas por el Ministerio de Educación Francés.
 Pertenecemos a una red de más de 1300 centros en todo el mundo; destacando la importante presencia de otras seis Alianzas Francesas en el Perú, lo que convierte a nuestra red en la pionera en descentralizar la enseñanza de los idiomas en nuestro país, así como en ofrecer la posibilidad de obtener los diplomas oficiales que otorga el Gobierno francés.
     </string>
-    <string name="contacto_becas_af">
+    <string name="contacto_stand_af">
           Telf. Central: 610-8000
          informes@alianzafrancesa.org.pe
 
     </string>
-    <string name="pagina_becas_af">http://alianzafrancesa.org.pe/</string>
+    <string name="pagina_stand_af">http://alianzafrancesa.org.pe/</string>
 
 
-    <string name="nombre_becas_daad">DAAD</string>
-    <string name="info_becas_daad">
+    <string name="nombre_stand_daad">DAAD</string>
+    <string name="info_stand_daad">
         El Servicio Alemán de Intercambio Académico (DAAD) es una asociación registrada sin fines de lucro y la organización promotora del intercambio internacional de estudiantes e investigadores más grande del mundo. Es la agencia nacional alemana para el fomento de cooperación académica entre estudiantes universitarios, investigadores y universidades.
     </string>
-    <string name="contacto_becas_daad">
+    <string name="contacto_stand_daad">
           Dirección: Av. Universitaria 1801
 San Miguel Lima
 Teléfono: +51 1 626 2000 Anexo 4430
 Correo electrónico: infodaad.pe
 
     </string>
-    <string name="pagina_becas_daad">https://www.daad.pe/es/</string>
+    <string name="pagina_stand_daad">https://www.daad.pe/es/</string>
 
 
-    <string name="nombre_becas_bs">Beca Santander</string>
-    <string name="info_becas_bs">
+    <string name="nombre_stand_bs">Beca Santander</string>
+    <string name="info_stand_bs">
         Banco Santander, a través de Santander Universidades, trabaja para fomentar la movilidad internacional, facilitar el acceso a la universidad, promover la investigación y formación especializada, y facilitar el acceso a su primer empleo.
 
 En 2015 se concedieron 35.349 Becas Santander para universitarios de todo el mundo. Es la mayor inversión en programas de becas y movilidad que hace una institución privada en el mundo.
     </string>
-    <string name="contacto_becas_bs">
+    <string name="contacto_stand_bs">
 
     </string>
-    <string name="pagina_becas_bs">http://www.becas-santander.com/</string>
+    <string name="pagina_stand_bs">http://www.becas-santander.com/</string>
 
 
     <!--INFORMACION UNI-->
 
-    <string name="nombre_uni_posgrado">Escuela Central de Posgrado</string>
-    <string name="info_uni_posgrado">
+    <string name="nombre_stand_posgrado">Escuela Central de Posgrado</string>
+    <string name="info_stand_posgrado">
         La Escuela Central de Posgrado constituye la expresión más elevada, calificada y pertinente de un sistema integrado, universidad-sociedad para la gestión del conocimiento.
 
 En este sistema se conjugan, en un mismo ambiente Académico y en forma privilegiada, las funciones básicas de una universidad socialmente comprometida con una visión de futuro; esto es:
@@ -549,58 +549,58 @@ Creación intelectual (científica, técnica y humanística)
 Interacción social.
 
     </string>
-    <string name="contacto_uni_posgrado">
+    <string name="contacto_stand_posgrado">
         Av. Túpac Amaru 210 Rimac Pabellon Central 3er Piso (Escuela Central de Posgrado) Telef: 3813826 - 4811070 - Anexo 252
 
 Correo Electrónico: ccc_postgrado@uni.edu.pe
 
     </string>
-    <string name="pagina_uni_posgrado">http://postgrado.uni.edu.pe/posgrado/</string>
+    <string name="pagina_stand_posgrado">http://postgrado.uni.edu.pe/posgrado/</string>
 
 
-    <string name="nombre_uni_ocad">Oficina Central de Admisión</string>
-    <string name="info_uni_ocad">
+    <string name="nombre_stand_ocad">Oficina Central de Admisión</string>
+    <string name="info_stand_ocad">
         La oficina Central de Admisión de la UNI es la entidad responsable de la planificación, organización y ejecución de los procesos de selección para el ingreso tanto a la propia Universidad como a instituciones externas; asimismo, brinda servicios de asesoría en estas actividades
     </string>
-    <string name="contacto_uni_ocad">
+    <string name="contacto_stand_ocad">
         Av. Tupac Amaru 210 - Rimac
 Teléfono: 481-1070 anexo 253 Telefax: 482-3804Horario de Atención: 08:00 am.  a  04:00 pm.
 e-mail: s_ocad@ uni.edu.pe | informes@admisionuni.edu.pe
  quejas@admisionuni.edu.pe
 
     </string>
-    <string name="pagina_uni_ocad">http://www.admision.uni.edu.pe/</string>
+    <string name="pagina_stand_ocad">http://www.admision.uni.edu.pe/</string>
 
 
-    <string name="nombre_uni_cepre">CEPRE-UNI</string>
-    <string name="info_uni_cepre">
+    <string name="nombre_stand_cepre">CEPRE-UNI</string>
+    <string name="info_stand_cepre">
         El Centro de Estudios Pre-Universitarios de la Universidad Nacional de Ingeniería, CEPRE-UNI, fue creado con la finalidad de ofrecer a los jóvenes interesados en seguir estudios profesionales en nuestra Universidad una adecuada preparación preuniversitaria que no sólo le permita enfrentar exitosamente el examen de admisión, sino principalmente la adquisición de los conocimientos requeridos en los estudios universitarios.
 
 La plana docente está integrada por excelentes catedráticos de las diferentes facultades que te enseñarán en la UNI. Ellos saben los secretos para que ingreses y termines satisfactoriamente tu carrera.
 
 El CEPRE-UNI tiene asignado el 30% de las vacantes aprobadas por la Universidad Nacional de Ingeniería para cada Concurso de Admisión, dichas vacantes son cubiertas en estricto orden de mérito por los alumnos que aprueben el Ciclo Pre-Universitario, hasta completar dicho porcentaje.
     </string>
-    <string name="contacto_uni_cepre">
+    <string name="contacto_stand_cepre">
         Av. Javier Prado Oeste 730 (alt. cdra. 33 Av. Brasil) - Magdalena del Mar
         Teléfonos:
 
 Javier Prado Magdalena: 460 2407 - 460 2419
 
     </string>
-    <string name="pagina_uni_cepre">http://cepre.uni.edu.pe/home.htm?temav=asp</string>
+    <string name="pagina_stand_cepre">http://cepre.uni.edu.pe/home.htm?temav=asp</string>
 
 
-    <string name="nombre_uni_ceps">CEPS-UNI</string>
-    <string name="info_uni_ceps">
+    <string name="nombre_stand_ceps">CEPS-UNI</string>
+    <string name="info_stand_ceps">
         El Centro de Extensión y Proyección Social de la Universidad Nacional de Ingeniería (CEPS UNI) cuenta con una calificación superior para garantizar una enseñanza práctica de alto nivel lo que nos permite certificar los conocimientos adquiridos por los asistentes a nuestros cursos exigiéndonos una alta calidad tanto en los contenidos de los cursos o programas como en nuestros instructores, con gran capacidad para la enseñanza y altamente calificados técnicamente.
     </string>
-    <string name="contacto_uni_ceps">
+    <string name="contacto_stand_ceps">
         4816693 - 3813854 - 4811070 Anexo 233
 Av. Túpac Amaru con Eduardo de Habich, entre los pabellones B (Teatro) y H (Arquitectura)
 informes@uni.edu.pe
 
     </string>
-    <string name="pagina_uni_ceps">http://www.ceps.uni.edu.pe/</string>
+    <string name="pagina_stand_ceps">http://www.ceps.uni.edu.pe/</string>
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>

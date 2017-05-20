@@ -60,19 +60,13 @@ public class PagerFragment extends NewFragment {
             //Bundle arg=new Bundle();
             switch(position) {
                 case 0:
-                    //f=new ListEditoriales("editorial");
                     f=RecyclerEditoriales.newInstance("editorial");
-                    //arg.putInt("tipo",R.array.editorial);
                     break;
                 case 1:
-                    //f=new ListBecas();
                     f=RecyclerEditoriales.newInstance("becas");
-                    //arg.putInt("tipo",R.array.becas);
                     break;
                 case 2:
-                    //f=new ListUni();
                     f=RecyclerEditoriales.newInstance("uni");
-                    //arg.putInt("tipo",R.array.uni);
                     break;
             }
             //f.setArguments(arg);
