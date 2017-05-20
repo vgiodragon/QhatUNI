@@ -29,7 +29,7 @@ public class DetailStand extends NewFragment {
         collapser.setTitle(stand.toUpperCase());
         ((TextView) v.findViewById(R.id.nombre_stand)).setText(getResources().getString(getResources().getIdentifier("nombre_stand_" + stand, "string", getActivity().getPackageName())));
         ((TextView) v.findViewById(R.id.info_stand)).setText(getResources().getString(getResources().getIdentifier("info_stand_" + stand, "string", getActivity().getPackageName())));
-        loadImageParallax(v, getResources().getIdentifier(stand, "drawable", getActivity().getPackageName()));
+        loadImageParallax(v, getResources().getIdentifier(stand.toLowerCase(), "drawable", getActivity().getPackageName()));
         ((TextView) v.findViewById(R.id.contacto)).setText(getResources().getString(getResources().getIdentifier("contacto_stand_" + stand, "string", getActivity().getPackageName())));
         v.findViewById(R.id.irstand).setOnClickListener(new View.OnClickListener() {
             @Override

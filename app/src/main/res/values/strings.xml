@@ -78,6 +78,15 @@
 
     <!--INFORMACION EDITORIALES-->
 
+    <string name="nombre_stand_museo">Museo Andrés del Castillo</string>
+    <string name="info_stand_museo">
+        Este conjunto de ciencia, historia y cultura ubicado en la Casa Belén lleva el nombre de Andrés Del Castillo Rey (1985-2006), en recuerdo de nuestro querido hijo que fue un brillante estudiante de Ingeniería de Minas, un excelente hijo, hermano y amigo. Es  mi deseo y el de su madre Verónica   que su nombre sea recordado para que sirva de ejemplo por generaciones futuras.
+    </string>
+    <string name="contacto_stand_museo">
+        Jr. De La Unión 1030. Lima 1. Perú | T .511.433.2831 | museo@mdh.com.pe | museo@madc.com.pe
+    </string>
+    <string name="pagina_stand_museo">http://www.madc.com.pe/</string>
+
     <string name="nombre_stand_mb">MINIBOOKS</string>
     <string name="info_stand_mb">
         La labor de nuestra empresa, cuya dirección se encuentra a cargo de nuestro fundador y de su familia, representa un símbolo de evolución y éxito de aceptación en el mercado nacional e internacional de productos editoriales. Atribuimos en parte sus logros, además de las cualidades personales de su fundador, a su filosofía de trabajo dirigida a una incesante búsqueda del perfeccionamiento en la calidad y contenidos de sus productos editoriales y al trabajo digno y estimulante de todo el personal de colaboradores de LOS LIBROS MÁS PEQUEÑOS DEL MUNDO E.I.R.L.
@@ -89,24 +98,24 @@
     <string name="pagina_stand_mb">http://www.minibooks.com.pe/</string>
 
 
-    <string name="nombre_stand_ll">Librería Libun</string>
-    <string name="info_stand_ll">
+    <string name="nombre_stand_libun">Librería Libun</string>
+    <string name="info_stand_libun">
         Fundación del Libro Universitario-LIBUN es una Institución sin fines de lucro creada con la finalidad de poner al alcance de los docentes y estudiantes universitarios del país libros de texto y de consulta actualizados y de calidad, provenientes de prestigiosas editoriales nacionales e internacionales a precios asequibles, con el fin de apoyar el esfuerzo de las universidades por mejorar el nivel de formación académico-profesional de sus alumnos.
     </string>
-    <string name="contacto_stand_ll">
+    <string name="contacto_stand_libun">
         Petit Thouars Nº 4799 , Miraflores Lima - Perú
         Central Telefónica: (051) 446-5048
 servcliente@libun.edu.pe
 
     </string>
-    <string name="pagina_stand_ll">http://www.libun.edu.pe/</string>
+    <string name="pagina_stand_libun">http://www.libun.edu.pe/</string>
 
 
-    <string name="nombre_stand_la">Librería Arcadia</string>
-    <string name="info_stand_la">
+    <string name="nombre_stand_arcadia">Librería Arcadia</string>
+    <string name="info_stand_arcadia">
         Arcadia Mediatica es la primera libreria especializada en Arquitectura y Diseño del Peru, operamos desde el 2001 en Lima distribuyendo las publicaciones mas prestigiosas de arquitectura, artes visuales y diseño del mundo.
     </string>
-    <string name="contacto_stand_la">
+    <string name="contacto_stand_arcadia">
         Sede Miraflores
 
 Av. Alcanfores 295 – Tda. 17
@@ -122,7 +131,7 @@ Telf. +511 4315617
 lima@arcadiamediatica.com
 
     </string>
-    <string name="pagina_stand_la">http://www.arcadiamediatica.com/</string>
+    <string name="pagina_stand_arcadia">http://www.arcadiamediatica.com/</string>
 
 
     <string name="nombre_stand_dhn">Distribuidora Heraldos Negros</string>
@@ -176,8 +185,8 @@ Telf. 242 3900
     <string name="pagina_stand_llf">http://librerialafamilia.blogspot.pe/</string>
 
 
-    <string name="nombre_stand_eirl">Editorial Macro EIRL</string>
-    <string name="info_stand_eirl">
+    <string name="nombre_stand_macro">Editorial Macro EIRL</string>
+    <string name="info_stand_macro">
         Empresa Editora Macro EIRL, nos dedicamos a la edición, producción y comercialización de libros para los niveles preescolar, escolar, técnico, universitario, y profesional.
 Aseguramos nuestras acciones mediante la mejora continua, orientados a:
 Mejorar constantemente los plazos de entrega de los pedidos de nuestros clientes.
@@ -187,21 +196,21 @@ Diseñar y desarrollar continuamente nuevos productos, usando la mejor tecnolog�
 Mantener y desarrollar relaciones de largo plazo con todos nuestros clientes y proveedores, en un marco de beneficio mutuo y respeto por las responsabilidades asumidas.
 Para ello, la alta dirección de Empresa Editora Macro EIRL revisa, actualiza y hace cumplir la presente política, pues cuenta con tecnología adecuada y personal competente dotado en honestidad, profesionalismo, competitividad y vocación de servicio.
     </string>
-    <string name="contacto_stand_eirl">
+    <string name="contacto_stand_macro">
         Av. Paseo de la República N.° 5613, Miraflores, Lima, Perú
 Central Telefónica: 748 0560
 atencionalcliente@editorialmacro.com
 ventas@editorialmacro.com
 
     </string>
-    <string name="pagina_stand_eirl">http://www.editorialmacro.com/</string>
+    <string name="pagina_stand_macro">http://www.editorialmacro.com/</string>
 
 
-    <string name="nombre_stand_lumbre">Lumbreras Editores</string>
-    <string name="info_stand_lumbre">
+    <string name="nombre_stand_lumbreras">Lumbreras Editores</string>
+    <string name="info_stand_lumbreras">
         Somos una editorial dedicada a la producción y distribución de textos preuniversitarios con contenido científico y humanista que aporta a la democratización de la educación y la cultura.
     </string>
-    <string name="contacto_stand_lumbre">
+    <string name="contacto_stand_lumbreras">
         Av. Alfonso Ugarte 1426 Breña - Lima
 (1 cuadra de la Plaza Bolognesi)
 telefonoLima: 01-332 3786
@@ -209,7 +218,7 @@ telefonoProvincias: 01-433 0713
 mailventas@elumbreras.com.pe
 
     </string>
-    <string name="pagina_stand_lumbre">http://www.elumbreras.com.pe/web/</string>
+    <string name="pagina_stand_lumbreras">http://www.elumbreras.com.pe/web/</string>
 
 
     <string name="nombre_stand_cvt">Corporativo V y T</string>
@@ -243,15 +252,15 @@ ventas@cydma.com
     <string name="pagina_stand_cydma">http://www.cydma.com/</string>
 
 
-    <string name="nombre_stand_ersa">Editorial Reverte S.A. </string>
-    <string name="info_stand_ersa">
+    <string name="nombre_stand_reverte">Editorial Reverte S.A. </string>
+    <string name="info_stand_reverte">
         La editorial Reverté es un grupo editorial español, especializado en libros científicos y técnicos. Distribuye sus ediciones en España, Portugal y países latinoamericanos. Su oficina central está en Barcelona y cuenta también con sedes en Bogotá y Ciudad de México.
     </string>
-    <string name="contacto_stand_ersa">
+    <string name="contacto_stand_reverte">
         EDITORIAL REVERTÉ S.A | C/Loreto 13-15 local B 08029 BARCELONA 93 419 3336 reverte@reverte.com
 
     </string>
-    <string name="pagina_stand_ersa">http://www.reverte.com/</string>
+    <string name="pagina_stand_reverte">http://www.reverte.com/</string>
 
 
     <string name="nombre_stand_eo">Ediciones Orem</string>
@@ -333,7 +342,6 @@ Nuestro objetivo como librería se refleja en nuestros libros, instrumentos úti
 Pabellón Central de la Universidad Nacional de Ingeniería
 Telf Directo: 481 4196 - Central telf UNI: 4811070 anexo: 240
 Correo: eduni.uni@gmail.com / eduni@uni.edu.pe
-
     </string>
     <string name="pagina_stand_eduni">http://www.eduni.uni.edu.pe/</string>
 
@@ -383,8 +391,10 @@ Promover el desarrollo profesional del personal de la institución para lograr e
         CENTRAL TELEFÓNICA: (01) 612-8230
         AV. AREQUIPA 1935, LINCE- LIMA
         HORARIO DE ATENCIÓN: LUNES A VIERNES DE 08:15 AM. A 05:00 PM.
-
     </string>
+
+
+
     <string name="pagina_becas_pronabec">http://www.pronabec.gob.pe/</string>
 
 
