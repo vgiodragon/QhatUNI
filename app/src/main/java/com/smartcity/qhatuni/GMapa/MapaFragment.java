@@ -138,7 +138,7 @@ public class MapaFragment extends Fragment implements OnMapReadyCallback,
                     salta="fondodecultura";
                 else if (titulo.equals("Mancomunidad de Lima Norte"))
                     salta="mcln";
-                else if (titulo.equals("Oficina Central de Cooperación Internacional y Convenios"))
+                else if (titulo.equals("Oficina Central de Cooperación\n Internacional y Convenios"))
                     salta="occic";
                 else if (titulo.equals("Beca Santander"))
                     salta="bs";
@@ -148,6 +148,8 @@ public class MapaFragment extends Fragment implements OnMapReadyCallback,
                     salta="af";
                 else if (titulo.equals("Escuela Central de Posgrado"))
                     salta="posgrado";
+                else if (titulo.equals("Los Libros Más \nPequeños Del Mundo"))
+                    salta="mb";
                 else
                     salta=titulo.toLowerCase();//Beca Santander;
                 Bundle arguments = new Bundle();
@@ -194,7 +196,7 @@ public class MapaFragment extends Fragment implements OnMapReadyCallback,
         mMarkers.add(new mMarker(R.drawable.mmacro,"MACRO",new LatLng(Lan1+espX*i, Lon1+espY*i))); i++;
         mMarkers.add(new mMarker(R.drawable.mlumbreras,"LUMBRERAS",new LatLng(Lan1+espX*i, Lon1+espY*i))); i++;
         mMarkers.add(new mMarker(R.drawable.mreverte,"REVERTE",new LatLng(Lan1+espX*i, Lon1+espY*i))); i++;
-        mMarkers.add(new mMarker(R.drawable.mmacro,"MACRO",new LatLng(Lan1+espX*i, Lon1+espY*i))); i++;///12.-LOS LIBROS MAS PEQUEÑOS DEL MUNDO
+        mMarkers.add(new mMarker(R.drawable.mminibooks,"Los Libros Más \nPequeños Del Mundo",new LatLng(Lan1+espX*i, Lon1+espY*i))); i++;
         mMarkers.add(new mMarker(R.drawable.mcydma,"CYDMA",new LatLng(Lan1+espX*i, Lon1+espY*i))); i++;//13.- LIBROS MIR - LIBROS URSS
         mMarkers.add(new mMarker(R.drawable.mfondodecultura,"Fondo de Cultura Económica",new LatLng(Lan1+espX*i, Lon1+espY*i))); i++; ///1
         mMarkers.add(new mMarker(R.drawable.mcydma,"CYDMA",new LatLng(Lan1+espX*i, Lon1+espY*i))); i++;
@@ -244,7 +246,7 @@ public class MapaFragment extends Fragment implements OnMapReadyCallback,
         espX = -0.000029;        espY = 0.000001;
         Calendar calendar = Calendar.getInstance();
         int day = calendar.get(Calendar.DAY_OF_WEEK);
-        mMarkers.add(new mMarker(R.drawable.moccic,"Oficina Central de Cooperación Internacional y Convenios",new LatLng(Lan1+espX*i, Lon1+espY*i))); i++; ///33 Cooperacion
+        mMarkers.add(new mMarker(R.drawable.moccic,"Oficina Central de Cooperación\n Internacional y Convenios",new LatLng(Lan1+espX*i, Lon1+espY*i))); i++; ///33 Cooperacion
         mMarkers.add(new mMarker(R.drawable.marcadia,"ARCADIA",new LatLng(Lan1+espX*i, Lon1+espY*i))); i++; ///34 BECAS
         mMarkers.add(new mMarker(R.drawable.mmacro,"MACRO",new LatLng(Lan1+espX*i, Lon1+espY*i))); i++; /// 35 OFICINA INTERNACIONAL PARA MIGRACIONES
         mMarkers.add(new mMarker(R.drawable.mfulbright,"FULBRIGHT",new LatLng(Lan1+espX*i, Lon1+espY*i))); i++;
