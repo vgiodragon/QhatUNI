@@ -22,9 +22,10 @@ import android.support.v7.widget.Toolbar;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.ImageView;
-
 import com.smartcity.qhatuni.EditorialesBecas.PagerFragment;
 import com.smartcity.qhatuni.GMapa.MapaFragment;
+import com.smartcity.qhatuni.ProgramaQhatuni.ProgramaFragment;
+import com.smartcity.qhatuni.StandsQhatuni2017.StandsFragment;
 
 import java.util.List;
 
@@ -158,12 +159,12 @@ public class MainActivity extends AppCompatActivity
             case R.id.cronog:
                 getSupportFragmentManager().beginTransaction()
                         .setCustomAnimations(R.anim.enter,R.anim.exit,R.anim.pop_enter,R.anim.pop_exit)
-                        .replace(R.id.principal,new CronogramaFragment()).addToBackStack(null).commit();
+                        .replace(R.id.principal,new ProgramaFragment()).addToBackStack(null).commit();
                 break;
             case R.id.inst:
                 getSupportFragmentManager().beginTransaction()
                         .setCustomAnimations(R.anim.enter,R.anim.exit,R.anim.pop_enter,R.anim.pop_exit)
-                        .replace(R.id.principal,new PagerFragment()).addToBackStack(null).commit();
+                        .replace(R.id.principal,new StandsFragment()).addToBackStack(null).commit();
                 break;
             case R.id.exp:
                 getSupportFragmentManager().beginTransaction()

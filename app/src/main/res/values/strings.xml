@@ -78,16 +78,7 @@
 
     <!--INFORMACION EDITORIALES-->
 
-    <string name="nombre_stand_museo">Museo Andrés del Castillo</string>
-    <string name="info_stand_museo">
-        Este conjunto de ciencia, historia y cultura ubicado en la Casa Belén lleva el nombre de Andrés Del Castillo Rey (1985-2006), en recuerdo de nuestro querido hijo que fue un brillante estudiante de Ingeniería de Minas, un excelente hijo, hermano y amigo. Es  mi deseo y el de su madre Verónica   que su nombre sea recordado para que sirva de ejemplo por generaciones futuras.
-    </string>
-    <string name="contacto_stand_museo">
-        Jr. De La Unión 1030. Lima 1. Perú | T .511.433.2831 | museo@mdh.com.pe | museo@madc.com.pe
-    </string>
-    <string name="pagina_stand_museo">http://www.madc.com.pe/</string>
-
-    <string name="nombre_stand_mb">Los Libros Más Pequeños Del Mundo</string>
+    <string name="nombre_stand_mb">MINIBOOKS</string>
     <string name="info_stand_mb">
         La labor de nuestra empresa, cuya dirección se encuentra a cargo de nuestro fundador y de su familia, representa un símbolo de evolución y éxito de aceptación en el mercado nacional e internacional de productos editoriales. Atribuimos en parte sus logros, además de las cualidades personales de su fundador, a su filosofía de trabajo dirigida a una incesante búsqueda del perfeccionamiento en la calidad y contenidos de sus productos editoriales y al trabajo digno y estimulante de todo el personal de colaboradores de LOS LIBROS MÁS PEQUEÑOS DEL MUNDO E.I.R.L.
     </string>
@@ -98,24 +89,24 @@
     <string name="pagina_stand_mb">http://www.minibooks.com.pe/</string>
 
 
-    <string name="nombre_stand_libun">Librería Libun</string>
-    <string name="info_stand_libun">
+    <string name="nombre_stand_ll">Librería Libun</string>
+    <string name="info_stand_ll">
         Fundación del Libro Universitario-LIBUN es una Institución sin fines de lucro creada con la finalidad de poner al alcance de los docentes y estudiantes universitarios del país libros de texto y de consulta actualizados y de calidad, provenientes de prestigiosas editoriales nacionales e internacionales a precios asequibles, con el fin de apoyar el esfuerzo de las universidades por mejorar el nivel de formación académico-profesional de sus alumnos.
     </string>
-    <string name="contacto_stand_libun">
+    <string name="contacto_stand_ll">
         Petit Thouars Nº 4799 , Miraflores Lima - Perú
         Central Telefónica: (051) 446-5048
 servcliente@libun.edu.pe
 
     </string>
-    <string name="pagina_stand_libun">http://www.libun.edu.pe/</string>
+    <string name="pagina_stand_ll">http://www.libun.edu.pe/</string>
 
 
-    <string name="nombre_stand_arcadia">Librería Arcadia</string>
-    <string name="info_stand_arcadia">
+    <string name="nombre_stand_la">Librería Arcadia</string>
+    <string name="info_stand_la">
         Arcadia Mediatica es la primera libreria especializada en Arquitectura y Diseño del Peru, operamos desde el 2001 en Lima distribuyendo las publicaciones mas prestigiosas de arquitectura, artes visuales y diseño del mundo.
     </string>
-    <string name="contacto_stand_arcadia">
+    <string name="contacto_stand_la">
         Sede Miraflores
 
 Av. Alcanfores 295 – Tda. 17
@@ -131,7 +122,7 @@ Telf. +511 4315617
 lima@arcadiamediatica.com
 
     </string>
-    <string name="pagina_stand_arcadia">http://www.arcadiamediatica.com/</string>
+    <string name="pagina_stand_la">http://www.arcadiamediatica.com/</string>
 
 
     <string name="nombre_stand_dhn">Distribuidora Heraldos Negros</string>
@@ -185,8 +176,8 @@ Telf. 242 3900
     <string name="pagina_stand_llf">http://librerialafamilia.blogspot.pe/</string>
 
 
-    <string name="nombre_stand_macro">Editorial Macro EIRL</string>
-    <string name="info_stand_macro">
+    <string name="nombre_stand_eirl">Editorial Macro EIRL</string>
+    <string name="info_stand_eirl">
         Empresa Editora Macro EIRL, nos dedicamos a la edición, producción y comercialización de libros para los niveles preescolar, escolar, técnico, universitario, y profesional.
 Aseguramos nuestras acciones mediante la mejora continua, orientados a:
 Mejorar constantemente los plazos de entrega de los pedidos de nuestros clientes.
@@ -196,21 +187,21 @@ Diseñar y desarrollar continuamente nuevos productos, usando la mejor tecnolog�
 Mantener y desarrollar relaciones de largo plazo con todos nuestros clientes y proveedores, en un marco de beneficio mutuo y respeto por las responsabilidades asumidas.
 Para ello, la alta dirección de Empresa Editora Macro EIRL revisa, actualiza y hace cumplir la presente política, pues cuenta con tecnología adecuada y personal competente dotado en honestidad, profesionalismo, competitividad y vocación de servicio.
     </string>
-    <string name="contacto_stand_macro">
+    <string name="contacto_stand_eirl">
         Av. Paseo de la República N.° 5613, Miraflores, Lima, Perú
 Central Telefónica: 748 0560
 atencionalcliente@editorialmacro.com
 ventas@editorialmacro.com
 
     </string>
-    <string name="pagina_stand_macro">http://www.editorialmacro.com/</string>
+    <string name="pagina_stand_eirl">http://www.editorialmacro.com/</string>
 
 
-    <string name="nombre_stand_lumbreras">Lumbreras Editores</string>
-    <string name="info_stand_lumbreras">
+    <string name="nombre_stand_lumbre">Lumbreras Editores</string>
+    <string name="info_stand_lumbre">
         Somos una editorial dedicada a la producción y distribución de textos preuniversitarios con contenido científico y humanista que aporta a la democratización de la educación y la cultura.
     </string>
-    <string name="contacto_stand_lumbreras">
+    <string name="contacto_stand_lumbre">
         Av. Alfonso Ugarte 1426 Breña - Lima
 (1 cuadra de la Plaza Bolognesi)
 telefonoLima: 01-332 3786
@@ -218,7 +209,7 @@ telefonoProvincias: 01-433 0713
 mailventas@elumbreras.com.pe
 
     </string>
-    <string name="pagina_stand_lumbreras">http://www.elumbreras.com.pe/web/</string>
+    <string name="pagina_stand_lumbre">http://www.elumbreras.com.pe/web/</string>
 
 
     <string name="nombre_stand_cvt">Corporativo V y T</string>
@@ -252,15 +243,15 @@ ventas@cydma.com
     <string name="pagina_stand_cydma">http://www.cydma.com/</string>
 
 
-    <string name="nombre_stand_reverte">Editorial Reverte S.A. </string>
-    <string name="info_stand_reverte">
+    <string name="nombre_stand_ersa">Editorial Reverte S.A. </string>
+    <string name="info_stand_ersa">
         La editorial Reverté es un grupo editorial español, especializado en libros científicos y técnicos. Distribuye sus ediciones en España, Portugal y países latinoamericanos. Su oficina central está en Barcelona y cuenta también con sedes en Bogotá y Ciudad de México.
     </string>
-    <string name="contacto_stand_reverte">
+    <string name="contacto_stand_ersa">
         EDITORIAL REVERTÉ S.A | C/Loreto 13-15 local B 08029 BARCELONA 93 419 3336 reverte@reverte.com
 
     </string>
-    <string name="pagina_stand_reverte">http://www.reverte.com/</string>
+    <string name="pagina_stand_ersa">http://www.reverte.com/</string>
 
 
     <string name="nombre_stand_eo">Ediciones Orem</string>
@@ -342,120 +333,119 @@ Nuestro objetivo como librería se refleja en nuestros libros, instrumentos úti
 Pabellón Central de la Universidad Nacional de Ingeniería
 Telf Directo: 481 4196 - Central telf UNI: 4811070 anexo: 240
 Correo: eduni.uni@gmail.com / eduni@uni.edu.pe
+
     </string>
     <string name="pagina_stand_eduni">http://www.eduni.uni.edu.pe/</string>
 
 
     <!--INFORMACION BECAS-->
 
-    <string name="nombre_stand_beca18">Beca 18</string>
-    <string name="info_stand_beca18">
+    <string name="nombre_becas_beca18">Beca 18</string>
+    <string name="info_becas_beca18">
         Programa de Beca del Estado Peruano que busca que los jóvenes, hombres y mujeres, con alto rendimiento académico y de bajos recursos económicos puedan acceder y concluir su formación académica técnica y/o profesional en reconocidas universidades e institutos, brindándoles oportunidades de desarrollo que les permita incorporarse socialmente en la educación superior.
     </string>
-    <string name="contacto_stand_beca18">
+    <string name="contacto_becas_beca18">
         LÍNEA GRATUITA: 0800-00018
         CENTRAL TELEFÓNICA: (01) 612-8230
         AV. AREQUIPA 1935, LINCE- LIMA
         HORARIO DE ATENCIÓN: LUNES A VIERNES DE 08:15 AM. A 05:00 PM.
 
     </string>
-    <string name="pagina_stand_beca18">http://www.pronabec.gob.pe/2016_Beca18.php</string>
+    <string name="pagina_becas_beca18">http://www.pronabec.gob.pe/2016_Beca18.php</string>
 
 
-    <string name="nombre_stand_occic">Oficina Central de Cooperación Internacional y Convenios</string>
-    <string name="info_stand_occic">
+    <string name="nombre_becas_occic">Oficina Central de Cooperación Internacional y Convenios</string>
+    <string name="info_becas_occic">
         La Oficina General de Cooperación Internacional y Convenios (OCCIC) pone a disposición información sobre estudios y actividades a desarrollarse en el extranjero.
 
 En esta oficina podrá encontrar las diferentes formas de contactarse con instituciones externas, como son los programas de Cooperación, Becas, Convenios, Redes Universitarias y otros; de tal forma que los interesados puedan contar con información básica para iniciar su vinculación con diversas instituciones del extranjero y estar en posibilidad de desarrollar una serie de actividades académicas, culturales y de investigación de particular interés.
 
 Asimismo, se informa sobre los diversos trámites que se deben conocer para iniciar o continuar estudios en nuestra institución: la reválida de Grados y Títulos de Estudios Cursados en el Extranjero, de manera especial para personas que se encuentran fuera del territorio nacional; procedimientos para obtener una carta de presentación institucional, entre otras gestiones.
     </string>
-    <string name="contacto_stand_occic">
+    <string name="contacto_becas_occic">
         Teléfono: 4824770 4811070  Anexo 546
         Correo: cooperacion@uni.edu.pe
 
     </string>
-    <string name="pagina_stand_occic">http://cooperacion.uni.edu.pe/site/</string>
+    <string name="pagina_becas_occic">http://cooperacion.uni.edu.pe/site/</string>
 
 
-    <string name="nombre_stand_pronabec">PRONABEC</string>
-    <string name="info_stand_pronabec">
+    <string name="nombre_becas_pronabec">PRONABEC</string>
+    <string name="info_becas_pronabec">
         El Programa Nacional de Becas y Crédito Educativo encargado de diseñar, implementar y administrar los programas de becas nacionales e internacionales, despliega todos los recursos y empeño necesarios para asumir los siguientes compromisos:
 Garantizar el correcto y equitativo otorgamiento de Beca 18 a nivel nacional según la población beneficiaria, estableciendo criterios de inclusión social para que los becarios tengan acceso, permanencia y culminación a una educación superior de calidad en instituciones de calidad.
 Garantizar que los postulantes que cumplan el perfil establecido, accedan al proceso de postulación en igualdad de condiciones y de manera transparente e independiente, siendo becados utilizando criterios de calidad, dentro del marco de la ley y los compromisos adquiridos con las instituciones de educación superior.
 Lograr la satisfacción de los postulantes a Beca 18.
 Promover el desarrollo profesional del personal de la institución para lograr el compromiso con la mejora continua de los procesos donde estén involucrados y el desarrollo sinérgico del trabajo.
     </string>
-    <string name="contacto_stand_pronabec">
+    <string name="contacto_becas_pronabec">
         LÍNEA GRATUITA: 0800-00018
         CENTRAL TELEFÓNICA: (01) 612-8230
         AV. AREQUIPA 1935, LINCE- LIMA
         HORARIO DE ATENCIÓN: LUNES A VIERNES DE 08:15 AM. A 05:00 PM.
+
     </string>
+    <string name="pagina_becas_pronabec">http://www.pronabec.gob.pe/</string>
 
 
-
-    <string name="pagina_stand_pronabec">http://www.pronabec.gob.pe/</string>
-
-
-    <string name="nombre_stand_cip">Colegio de Ingenieros del Perú</string>
-    <string name="info_stand_cip">
+    <string name="nombre_becas_cip">Colegio de Ingenieros del Perú</string>
+    <string name="info_becas_cip">
         Somos una institución deontológico, sin fines de lucro, que representa y agrupa a los ingenieros profesionales del Perú, de todas las especialidades, que cautela y preserva el comportamiento ético de sus miembros, y debe asegurar al Perú que cuenta con una profesión nacional que ejerce la ingeniería en un contexto de orden, respeto, competitividad, calidad y ética, y que está enraizada en sus valores sociales, culturales y políticos, como base fundamental en el proceso de desarrollo de la nación.
     </string>
-    <string name="contacto_stand_cip">
+    <string name="contacto_becas_cip">
         Av. Arequipa Nº 4947
 Miraflores, Lima - Perú
         Telf: (+51 1) 445 - 6540
 
     </string>
-    <string name="pagina_stand_cip">http://www.cip.org.pe/</string>
+    <string name="pagina_becas_cip">http://www.cip.org.pe/</string>
 
 
-    <string name="nombre_stand_mac">Museo Andrés del Castillo</string>
-    <string name="info_stand_mac">
+    <string name="nombre_becas_mac">Museo Andrés del Castillo</string>
+    <string name="info_becas_mac">
         Este conjunto de ciencia, historia y cultura ubicado en la Casa Belén lleva el nombre de Andrés Del Castillo Rey (1985-2006).
 
 Hemos construido este hermoso Museo como una contribución al desarrollo y conocimiento de nuestro país. En la Sala de Minería, presentamos la colección más importante de minerales cristalizados que existe en el Perú. La Cerámica Chancay de presencia hasta hace pocos años sólo en jardines, se presenta en lugar preferente, donde resalta su gran variedad. Se exhibe también por primera vez la vestimenta y la forma de vida de los antiguos peruanos.
     </string>
-    <string name="contacto_stand_mac">
+    <string name="contacto_becas_mac">
         Jr. De La Unión 1030. Lima 1. Perú
         Telf. 511.433.2831
         museo@mdh.com.pe
         museo@madc.com.pe
 
     </string>
-    <string name="pagina_stand_mac">http://www.madc.com.pe/</string>
+    <string name="pagina_becas_mac">http://www.madc.com.pe/</string>
 
 
-    <string name="nombre_stand_tullpi">Tullpi</string>
-    <string name="info_stand_tullpi">
+    <string name="nombre_becas_tullpi">Tullpi</string>
+    <string name="info_becas_tullpi">
         Tullpi S.A.C desarrolla: una plataforma de juegos educativos orientados al aprendizaje de conceptos básicos de matemática y lógica. Usando una tecnología que permite interconectar una interfaz tangible compuesta por un tablero y tapas de botellas, el niño es capaz de interactuar con los juegos digitales.
     </string>
-    <string name="contacto_stand_tullpi">
+    <string name="contacto_becas_tullpi">
         Teléfono: +51-950-862-507.
             E-mail: hello@tullpi.com
 
     </string>
-    <string name="pagina_stand_tullpi">http://www.tullpi.com/</string>
+    <string name="pagina_becas_tullpi">http://www.tullpi.com/</string>
 
 
-    <string name="nombre_stand_concytec">CONCYTEC</string>
-    <string name="info_stand_concytec">
+    <string name="nombre_becas_concytec">CONCYTEC</string>
+    <string name="info_becas_concytec">
         El CONCYTEC, es la institución rectora del Sistema Nacional de Ciencia y Tecnología e Innovación Tecnológica, SINACYT, integrada por la Academia, los Institutos de Investigación del Estado, las organizaciones empresariales, las comunidades y la sociedad civil. Esta regida por la Ley Marco de Ciencia y Tecnología N° 28303.
 
 Tiene por finalidad normar, dirigir, orientar, fomentar, coordinar, supervisar y evaluar las acciones del Estado en el ámbito de la Ciencia, Tecnología e Innovación Tecnológica y promover e impulsar su desarrollo mediante la acción concertada y la complementariedad entre los programas y proyectos de las instituciones públicas, académicas, empresariales organizaciones sociales y personas integrantes del SINACYT. Para ello, una de las primeras tareas a realizar es la de articular todos los organismos y recursos del sector en función de los objetivos y políticas nacionales de desarrollo establecidos dentro de las leyes que nos rigen y dentro de las políticas señaladas por nuestro actual Gobierno, en particular en el marco del ""Plan Nacional de Ciencia y Tecnología e Innovación para la Competitividad y el Desarrollo Humano 2006-2021"". Se continuará así, promoviendo la capacidad nacional de generación de conocimientos científicos y tecnológicos, mediante la investigación; conocimientos que puedan ser incorporadas a los bienes y servicios que el país debe producir y en lo posible exportar.
     </string>
-    <string name="contacto_stand_concytec">
+    <string name="contacto_becas_concytec">
         Calle Grimaldo del Solar N° 346 - Miraflores.
 Lima - Perú
 Central Telef.: 0051-1-399-0030
 comunicacion@concytec.gob.pe
     </string>
-    <string name="pagina_stand_concytec">https://portal.concytec.gob.pe/</string>
+    <string name="pagina_becas_concytec">https://portal.concytec.gob.pe/</string>
 
 
-    <string name="nombre_stand_fulbright">Fulbright</string>
-    <string name="info_stand_fulbright">
+    <string name="nombre_becas_fulbright">Fulbright</string>
+    <string name="info_becas_fulbright">
         La Comisión para el Intercambio Educativo entre el Perú y los Estados Unidos - Comisión Fulbright - es una organización binacional sin fines de lucro, establecida en 1956 mediante un convenio entre los gobiernos del Perú y los Estados Unidos. La Comisión administra el prestigioso programa de becas Fulbright y ofrece los servicios del Centro de Asesoría Educativa para peruanos interesados en estudiar en los Estados Unidos.
 
 El programa de becas Fulbright agrupa una variedad de becas de intercambio para ciudadanos peruanos y de los Estados Unidos.
@@ -464,14 +454,14 @@ Desde su creación, la Comisión Fulbright ha otorgado más de 2,000 becas para 
 
 Pocas oportunidades enriquecen la vida profesional y personal como una beca Fulbright. Experimentar una cultura diferente, establecer relaciones de colaboración con colegas en el Perú y los Estados Unidos y compartir nuevos horizontes son parte de la ""experiencia Fulbright"". Los becarios de los Estados Unidos retornan a su país para promover una mejor comprensión acerca de la cultura peruana, aportan importantes contribuciones a la vida académica del país y ofrecen la posibilidad de establecer vínculos entre instituciones de ambos países. Los becarios peruanos enriquecen las universidades de los Estados Unidos y retornan al Perú para contribuir en una variedad de disciplinas, desde las humanidades y las artes, hasta las ciencias, los negocios y las relaciones internacionales.
     </string>
-    <string name="contacto_stand_fulbright">
+    <string name="contacto_becas_fulbright">
         Juan Romero Hidalgo 444 San Borja, Lima 41, Perú(51-1) 475-3083     |     (51-1) 476-0722    |     (51-1) 476-0666Para información general sobre la Comisión Fulbright: mfernandez@fulbright.pe
     </string>
-    <string name="pagina_stand_fulbright">http://www.fulbright.pe/</string>
+    <string name="pagina_becas_fulbright">http://www.fulbright.pe/</string>
 
 
-    <string name="nombre_stand_mcln">Mancomunidad de Lima Norte</string>
-    <string name="info_stand_mcln">
+    <string name="nombre_becas_mcln">Mancomunidad de Lima Norte</string>
+    <string name="info_becas_mcln">
         Es la unión de nueve (9) Municipalidades distritales de Lima Norte y el Callao, que buscan fomentar el progreso de sus comunidades de manera conjunta elaborando y desarrollando proyectos que por su magnitud superan el ámbito jurisdiccional y las posibilidades individuales de cada gobierno Local.
 
 La Mancomunidad de Lima Norte ejecuta acciones, convenios y proyectos conjuntos promoviendo el desarrollo local, elaborando, gestionando, e implementando proyectos ante entidades nacionales e internacionales, para buscar financiamiento y viabilidad de ejecución.
@@ -480,66 +470,66 @@ Los entes asociados procuran mejores niveles de eficacia y eficiencia en la gest
 
 Desarrollan e implementan planes y experiencias conjuntas de desarrollo de capacidades, asistencia técnica e investigación tecnológica en convenio con entidades educativas públicas y privadas.
     </string>
-    <string name="contacto_stand_mcln">
+    <string name="contacto_becas_mcln">
         Los Olivos, Independencia, Comas, Carabayllo, Puente Piedra, Santa Rosa y Ancón
     </string>
-    <string name="pagina_stand_mcln">http://www.mancomunidadlimanorte.gob.pe/</string>
+    <string name="pagina_becas_mcln">http://www.mancomunidadlimanorte.gob.pe/</string>
 
 
-    <string name="nombre_stand_munibecas">Munibecas</string>
-    <string name="info_stand_munibecas">
+    <string name="nombre_becas_muni">Munibecas</string>
+    <string name="info_becas_muni">
         Desde el 2007 la Municipalidad Metropolitana de Lima inicio el Programa Becas a la Excelencia, para impulsar el liderazgo en los jóvenes y empoderarlos con una educación que les permita liderar grandes cambios. De esta forma se permitió a más de 2,500 postulantes participar en tres convocatorias para becas a nivel nacional, beneficiando 800 becarios gracias al apoyo y colaboración de alrededor de 200 instituciones educativas aliadas del programa, marcando positivamente el futuro de muchos jóvenes. Hoy, cinco años después, internacionalizamos el programa y lanzamos su cuarta edición desde un portal interactivo y una aplicación móvil que permite una comunicación más fluida con los postulantes y muchas más oportunidades de acceder a una educación de excelencia. Estamos más convencidos que nunca, que la educación es la llave del desarrollo y por ello, el programa Becas a la Excelencia será una oportunidad innovadora, entre el talento y el éxito.
     </string>
-    <string name="contacto_stand_munibecas">
+    <string name="contacto_becas_muni">
 
     </string>
-    <string name="pagina_stand_munibecas">http://www.munlima.gob.pe/becasalaexcelencia/</string>
+    <string name="pagina_becas_muni">http://www.munlima.gob.pe/becasalaexcelencia/</string>
 
 
-    <string name="nombre_stand_af">Alianza Francesa</string>
-    <string name="info_stand_af">
+    <string name="nombre_becas_af">Alianza Francesa</string>
+    <string name="info_becas_af">
         Alianza Francesa de Lima es una asociación cultural sin fines de lucro, dedicada, desde hace más de 120 años, a la enseñanza del idioma francés, la difusión de la cultura francesa y el diálogo cultural franco-peruano, contribuyendo así a la formación de generaciones de destacados peruanos en el mundo intelectual, cultural y artístico.
 Nuestro sistema de enseñanza está acorde con los más innovadores métodos y exigencias mundiales, lo que nos permite mantenernos a la vanguardia en la enseñanza del idioma francés en el Perú; asimismo, nuestros docentes cuentan con certificaciones DALF (Diplôme approfondi de Langue Française) emitidas por el Ministerio de Educación Francés.
 Pertenecemos a una red de más de 1300 centros en todo el mundo; destacando la importante presencia de otras seis Alianzas Francesas en el Perú, lo que convierte a nuestra red en la pionera en descentralizar la enseñanza de los idiomas en nuestro país, así como en ofrecer la posibilidad de obtener los diplomas oficiales que otorga el Gobierno francés.
     </string>
-    <string name="contacto_stand_af">
+    <string name="contacto_becas_af">
           Telf. Central: 610-8000
          informes@alianzafrancesa.org.pe
 
     </string>
-    <string name="pagina_stand_af">http://alianzafrancesa.org.pe/</string>
+    <string name="pagina_becas_af">http://alianzafrancesa.org.pe/</string>
 
 
-    <string name="nombre_stand_daad">DAAD</string>
-    <string name="info_stand_daad">
+    <string name="nombre_becas_daad">DAAD</string>
+    <string name="info_becas_daad">
         El Servicio Alemán de Intercambio Académico (DAAD) es una asociación registrada sin fines de lucro y la organización promotora del intercambio internacional de estudiantes e investigadores más grande del mundo. Es la agencia nacional alemana para el fomento de cooperación académica entre estudiantes universitarios, investigadores y universidades.
     </string>
-    <string name="contacto_stand_daad">
+    <string name="contacto_becas_daad">
           Dirección: Av. Universitaria 1801
 San Miguel Lima
 Teléfono: +51 1 626 2000 Anexo 4430
 Correo electrónico: infodaad.pe
 
     </string>
-    <string name="pagina_stand_daad">https://www.daad.pe/es/</string>
+    <string name="pagina_becas_daad">https://www.daad.pe/es/</string>
 
 
-    <string name="nombre_stand_bs">Beca Santander</string>
-    <string name="info_stand_bs">
+    <string name="nombre_becas_bs">Beca Santander</string>
+    <string name="info_becas_bs">
         Banco Santander, a través de Santander Universidades, trabaja para fomentar la movilidad internacional, facilitar el acceso a la universidad, promover la investigación y formación especializada, y facilitar el acceso a su primer empleo.
 
 En 2015 se concedieron 35.349 Becas Santander para universitarios de todo el mundo. Es la mayor inversión en programas de becas y movilidad que hace una institución privada en el mundo.
     </string>
-    <string name="contacto_stand_bs">
+    <string name="contacto_becas_bs">
 
     </string>
-    <string name="pagina_stand_bs">http://www.becas-santander.com/</string>
+    <string name="pagina_becas_bs">http://www.becas-santander.com/</string>
 
 
     <!--INFORMACION UNI-->
 
-    <string name="nombre_stand_posgrado">Escuela Central de Posgrado</string>
-    <string name="info_stand_posgrado">
+    <string name="nombre_uni_posgrado">Escuela Central de Posgrado</string>
+    <string name="info_uni_posgrado">
         La Escuela Central de Posgrado constituye la expresión más elevada, calificada y pertinente de un sistema integrado, universidad-sociedad para la gestión del conocimiento.
 
 En este sistema se conjugan, en un mismo ambiente Académico y en forma privilegiada, las funciones básicas de una universidad socialmente comprometida con una visión de futuro; esto es:
@@ -549,436 +539,58 @@ Creación intelectual (científica, técnica y humanística)
 Interacción social.
 
     </string>
-    <string name="contacto_stand_posgrado">
+    <string name="contacto_uni_posgrado">
         Av. Túpac Amaru 210 Rimac Pabellon Central 3er Piso (Escuela Central de Posgrado) Telef: 3813826 - 4811070 - Anexo 252
 
 Correo Electrónico: ccc_postgrado@uni.edu.pe
 
     </string>
-    <string name="pagina_stand_posgrado">http://postgrado.uni.edu.pe/posgrado/</string>
+    <string name="pagina_uni_posgrado">http://postgrado.uni.edu.pe/posgrado/</string>
 
 
-    <string name="nombre_stand_ocad">Oficina Central de Admisión</string>
-    <string name="info_stand_ocad">
+    <string name="nombre_uni_ocad">Oficina Central de Admisión</string>
+    <string name="info_uni_ocad">
         La oficina Central de Admisión de la UNI es la entidad responsable de la planificación, organización y ejecución de los procesos de selección para el ingreso tanto a la propia Universidad como a instituciones externas; asimismo, brinda servicios de asesoría en estas actividades
     </string>
-    <string name="contacto_stand_ocad">
+    <string name="contacto_uni_ocad">
         Av. Tupac Amaru 210 - Rimac
 Teléfono: 481-1070 anexo 253 Telefax: 482-3804Horario de Atención: 08:00 am.  a  04:00 pm.
 e-mail: s_ocad@ uni.edu.pe | informes@admisionuni.edu.pe
  quejas@admisionuni.edu.pe
 
     </string>
-    <string name="pagina_stand_ocad">http://www.admision.uni.edu.pe/</string>
+    <string name="pagina_uni_ocad">http://www.admision.uni.edu.pe/</string>
 
 
-    <string name="nombre_stand_cepre">CEPRE-UNI</string>
-    <string name="info_stand_cepre">
+    <string name="nombre_uni_cepre">CEPRE-UNI</string>
+    <string name="info_uni_cepre">
         El Centro de Estudios Pre-Universitarios de la Universidad Nacional de Ingeniería, CEPRE-UNI, fue creado con la finalidad de ofrecer a los jóvenes interesados en seguir estudios profesionales en nuestra Universidad una adecuada preparación preuniversitaria que no sólo le permita enfrentar exitosamente el examen de admisión, sino principalmente la adquisición de los conocimientos requeridos en los estudios universitarios.
 
 La plana docente está integrada por excelentes catedráticos de las diferentes facultades que te enseñarán en la UNI. Ellos saben los secretos para que ingreses y termines satisfactoriamente tu carrera.
 
 El CEPRE-UNI tiene asignado el 30% de las vacantes aprobadas por la Universidad Nacional de Ingeniería para cada Concurso de Admisión, dichas vacantes son cubiertas en estricto orden de mérito por los alumnos que aprueben el Ciclo Pre-Universitario, hasta completar dicho porcentaje.
     </string>
-    <string name="contacto_stand_cepre">
+    <string name="contacto_uni_cepre">
         Av. Javier Prado Oeste 730 (alt. cdra. 33 Av. Brasil) - Magdalena del Mar
         Teléfonos:
 
 Javier Prado Magdalena: 460 2407 - 460 2419
 
     </string>
-    <string name="pagina_stand_cepre">http://cepre.uni.edu.pe/home.htm?temav=asp</string>
+    <string name="pagina_uni_cepre">http://cepre.uni.edu.pe/home.htm?temav=asp</string>
 
 
-    <string name="nombre_stand_ceps">CEPS-UNI</string>
-    <string name="info_stand_ceps">
+    <string name="nombre_uni_ceps">CEPS-UNI</string>
+    <string name="info_uni_ceps">
         El Centro de Extensión y Proyección Social de la Universidad Nacional de Ingeniería (CEPS UNI) cuenta con una calificación superior para garantizar una enseñanza práctica de alto nivel lo que nos permite certificar los conocimientos adquiridos por los asistentes a nuestros cursos exigiéndonos una alta calidad tanto en los contenidos de los cursos o programas como en nuestros instructores, con gran capacidad para la enseñanza y altamente calificados técnicamente.
     </string>
-    <string name="contacto_stand_ceps">
+    <string name="contacto_uni_ceps">
         4816693 - 3813854 - 4811070 Anexo 233
 Av. Túpac Amaru con Eduardo de Habich, entre los pabellones B (Teatro) y H (Arquitectura)
 informes@uni.edu.pe
 
     </string>
-    <string name="pagina_stand_ceps">http://www.ceps.uni.edu.pe/</string>
-
-
-    <string name="nombre_stand_unmsm">Fondo Editorial UNMSM</string>
-    <string name="info_stand_unmsm">
-        El Centro de Producción Fondo Editorial de San Marcos (creado como unidad independiente con RR N.º 03715-R-02 del 3 de junio, 2002) se complace en entregar al público en general un catálogo actualizado con las publicaciones más destacadas por su alto valor científico y humanístico de utilidad para la vida académica y la cultura nacional.
-Cabe destacar que todas nuestras publicaciones anteriores al 2016 han sido exhibidas en los últimos años en ferias nacionales e internacionales como la Feria Internacional del Libro de Lima 2015 y la FIL de Guadalajara 2015.
-    </string>
-    <string name="contacto_stand_unmsm">
-    Calle German Amézaga N° 375
-    4to piso de la Biblioteca Central
-    Ciudad Universitaria,Lima-Perú
-    Telefóno : (51) 619-7000 anexo 7530
-    Email : fondoedit@unmsm.edu.pe
-    </string>
-    <string name="pagina_stand_unmsm">http://www.unmsm.edu.pe/fondoeditorial/</string>
-
-    <string name="nombre_stand_jallalla">Jallalla - Patrimonio Cultural UNI</string>
-    <string name="info_stand_jallalla">
-        Proyecto conformado por autoridades, profesores y alumnos que busca la revalorización de todo el patrimonio cultural de la Universidad Nacional de Ingeniería.
-
-    </string>Teléfono: 4824770 4811070  Anexo 546
-    Correo: cooperacion@uni.edu.pe
-    <string name="contacto_stand_jallalla">
-
-
-    </string>
-    <string name="pagina_stand_jallalla">https://www.facebook.com/jallallaUNI/</string>
-
-    <string name="nombre_stand_upc">Editorial UPC</string>
-    <string name="info_stand_upc">
-       Editorial UPC fue constituida en 1998 con la misión de propiciar la creación y transmisión del conocimiento que genera y fomenta la UPC como aporte al desarrollo de la educación, las ciencias y la cultura en beneficio de la sociedad. Hoy, cuenta con una variedad de obras que reflejan la producción intelectual de sus miembros.
-    </string>
-
-    <string name="contacto_stand_upc">
- Prolongación Primavera 2390, Monterrico, Santiago de Surco
-Informes para el Proceso de Admisión a la UPC (Postulantes): 313-3333 | Atención a Alumnos de la UPC (Estudiantes) 630-3333
-
-    </string>
-    <string name="pagina_stand_upc">http://contactoweb.upc.edu.pe/</string>
-
-
-    <string name="nombre_stand_planeta"> Planeta de los libros </string>
-    <string name="info_stand_planeta">
-       El Grupo Planeta es el primer grupo editorial y de comunicación español de capital familiar que lidera una amplia oferta al servicio de la cultura, la formación, la información y el entretenimiento audiovisual. Desde la fundación de Editorial Planeta en Barcelona por José Manuel Lara Hernández, en 1949, el Grupo se ha convertido en una multinacional que combina una sólida tradición empresarial con una gran capacidad de innovación y una vocación europea e internacional, con una presencia especialmente destacada en España, Francia, Portugal y América Latina.
-
-    </string>
-
-    <string name="contacto_stand_planeta">
-	PlanetadeLibros.pe
-	Av. Santa Cruz 244, San Isidro
-	Lima
-	Perú
-    </string>
-    <string name="pagina_stand_planeta">http://www.planetadelibros.com.pe/</string>
-
-    <string name="nombre_stand_mir">Libros MIR - Libros URSS</string>
-    <string name="info_stand_mir">
-       Nuestra empresa viene realizando operaciones en la difusión de libros técnicos por más de 35 años. Aquí encontrará un amplio listado de libros en diferentes materias de la prestigiosa editorial soviética Mir Moscú.
-
-    </string>
-
-    <string name="contacto_stand_mir">
-	Jr. Ica N° 441 - Of. 103 - Cercado de Lima
-	| Tel. 51 1 4280448
-    </string>
-    <string name="pagina_stand_mir">http://www.librosmir.com/</string>
-
-
-
-    <string name="nombre_stand_sbs">SBS Librería Internacional</string>
-    <string name="info_stand_sbs">
-Special Book Services Perú fue fundada en 1996 y actualmente cuenta con 33,500 clientes a nivel nacional.
-SBS Perú pertenece al grupo SBS Internacional. SBS Brasil, la Matriz de Special Book Services fue fundada en 1985 con más de 50 mil Clientes y 35 Librerías en las ciudades de Belém, Belo Horizonte, Brasília, Curitiba, Niterói, Porto Alegre, Recife, Rio de Janeiro, Santo André, Santos, São José dos Campos, São Paulo, Uberlândia, Vitória, Salvador, Fortaleza, Juiz de Fora, Goiânia, Florianópolis.
-    </string>
-
-    <string name="contacto_stand_sbs">
- Dirección
-Av. Angamos Oeste 301, Miraflores
-
-Horario de Atención
-Lunes a Viernes de 9:00 am. - 7:00 pm.
-Sábado: 9:00 am. 12:00 m.
-
-E-mail
-miraflores@sbs.com.pe
-
-Teléfono
-(01) 206-4900 anexo 210
-
-    </string>
-    <string name="pagina_stand_sbs">https://www.sbs.com.pe/</string>
-
-    <string name="nombre_stand_paulinas">Paulinas</string>
-    <string name="info_stand_paulinas">
- Somos las Hijas de San Pablo, mujeres consagradas a Dios y apóstoles de Jesucristo. Cumplimos 50 años en el Perú, al servicio del Evangelio y la cultura con los medios de comunicación social. También nos llaman Hermanas Paulinas, porque compartimos un "vínculo especial" con el apóstol San Pablo, gran comunicador del Evangelio, en cuyas enseñanzas se inspira nuestra vida, espiritualidad y misión.
-    </string>
-
-    <string name="contacto_stand_paulinas">
-Lima | Cercado
-Jr. Callao 198
-Telf. 427-8276
-eMail librerialima@paulinas.org.pe
-    </string>
-    <string name="pagina_stand_paulinas">http://www.paulinas.org.pe/</string>
-
-
-
-    <string name="nombre_stand_upch">Centro Editorial de la Universidad Peruana Cayetano Heredia</string>
-    <string name="info_stand_upch">
-       El Centro Editorial de la Universidad Peruana Cayetano Heredia es una unidad dependiente de Rectorado que tiene como misión la producción y divulgación mediante diferentes tipos de publicaciones: libros, revistas, boletines, CD y otros medios de difusión y transmisión de conocimientos e información concerniente a las áreas de ciencias de la salud, ciencias y educación. Las publicaciones principalmente provienen de miembros de la comunidad herediana, pero algunas también de personalidades ajenas a la UPCH, tanto nacionales como extranjeras.
-    </string>
-
-    <string name="contacto_stand_upch">
-Av. Honorio Delgado 430 Urb. Ingeniería - SMP (Pabellón Carlos Monge)
-  Teléfono: 3408939
-  ceditorial.libreria@oficinas-upch.pe
-    </string>
-    <string name="pagina_stand_upch">http://ceditorial.cayetano.edu.pe/</string>
-
-
-    <string name="nombre_stand_unalm"> Fondo Editorial de Universidad Nacional Agraria La Molina</string>
-    <string name="info_stand_unalm">
-Nos dedicamos a la formación de profesionales competentes para los sectores agrosilvopecuario, pesquero, alimentario y económico, que se distinguen por ser líderes, proactivos, innovadores, competitivos, con capacidad de gestión y tener compromiso social. Genera, y aplica conocimientos obtenidos de la investigación básica y aplicada para el desarrollo sostenible del país.
-
-    </string>
-
-    <string name="contacto_stand_unalm">
-  	Telf. 674-0062 / 614 7800 anexo 256 |	fondoeditorial@lamolina.edu.pe
-
-    </string>
-    <string name="pagina_stand_unalm">http://www.lamolina.edu.pe/</string>
-
-
-    <string name="nombre_stand_relaciones">Oficina de Relaciones Públicas - UNI </string>
-    <string name="info_stand_relaciones">
-       La Oficina de Relaciones Públicas es un órgano de apoyo de la Universidad, que asiste al Rectorado en las actividades de comunicación e información, siendo su objetivo fortalecer la imagen de la Universidad y lograr su integración e interrelación con los miembros de la comunidad local, nacional e internacional así como promover y desarrollar el sistema de comunicación e información de la UNI.
-    </string>
-
-    <string name="contacto_stand_relaciones">
- Av. Túpac Amaru 210
-San Martín De Porres, Lima, Peru
-    </string>
-    <string name="pagina_stand_relaciones">http://rrppuni.blogspot.pe/</string>
-
-
-    <string name="nombre_stand_caral">ZONA ARQUEOLÓGICA CARAL</string>
-    <string name="info_stand_caral">
- La Zona Arqueológica Caral (ZAC) es una entidad pública creada por el Decreto Supremo N° 003-2003-ED del 14 de febrero de 2003, refrendado por la Ley N° 28690 del 18 de marzo de 2006, que cuenta con plena autonomía de gestión científica, administrativa y financiera. Desde julio de 2010 se encuentra adscrita al Ministerio de Cultura, como Unidad Ejecutora 003.
-    </string>
-
-    <string name="contacto_stand_caral">
-    Av. Las Lomas de la Molina N° 327
-    Urb. Las Lomas de la Molina Vieja
-    La Molina, Lima - Perú
-    Central Telefónica : (01)205-2500
-    Email : webmaster@zonacaral.gob.pe
-    </string>
-    <string name="pagina_stand_caral">http://www.zonacaral.gob.pe/publicaciones/</string>
-
-
-    <string name="nombre_stand_cer">Centro de energías renovables y uso racional de la energía</string>
-    <string name="info_stand_cer">
-       Centro de energías renovables y uso racional de la energía
-    </string>
-
-    <string name="contacto_stand_cer">
- (01) 4811070
- Av. Túpac Amaru 210
-San Martín De Porres, Lima, Peru
-    </string>
-    <string name="pagina_stand_cer">http://cer.uni.edu.pe/index-2.html</string>
-
-    <string name="nombre_stand_citrar">Centro de Investigación en Tratamiento de Aguas Residuales y Residuos Peligrosos</string>
-    <string name="info_stand_citrar">
-El Centro de Investigación en Tratamiento de Aguas Residuales y Residuos Peligrosos - CITRAR-UNI se incia en el año 2011 lo que hasta entonces era la Planta Piloto de Tratamiento de Aguas residuales de la Universidad Nacional de Ingeniería (UNITRAR), que entro en funcionamiento en enero de 1996. CITRAR-UNI tiene el proposito de propiciar la investigación científica, con tendencia a buscar alternativas técnicas de solución de bajo costo a la problematica del tratamiento, disposición y reúso inadecuado de las aguas residuales y residuos peligrosos en el Peru.
-
-    </string>
-
-    <string name="contacto_stand_citrar">
-  Dirección  :
-Av. Tupac Amaru S/N Rímac, Puerta Nº 7 de la Universidad Nacional de Ingeniería
-(Al costado de Metro)
-Email :
-citrar@uni.edu.pe
-Teléfono :
- (511) 481-1070 Anexo. 581
-    </string>
-    <string name="pagina_stand_citrar">http://fiauni.pe/site/index.php/dependencias/citrar</string>
-
-    <string name="nombre_stand_igi">Intituto General de Investigación</string>
-    <string name="info_stand_igi">
-       El Instituto General de Investigación, promueve la  investigación entre investigadores de las diferentes  Facultades de la Universidad, formando grupos interdisciplinarios, para que trabajen conjuntamente en la solución  de un problema puntual en líneas de investigación que sintonicen con las necesidades del Perú.
-
-    </string>
-
-    <string name="contacto_stand_igi">
- Av. Tupac Amaru 210, Rimac, Lima | 511 481 1070 - anexo 7852 | igi@uni.edu.pe
-
-    </string>
-    <string name="pagina_stand_igi">http://igi.uni.edu.pe/portal/en/</string>
-
-    <string name="nombre_stand_tutorias">Oficina De Becas y Tutoria UNI</string>
-    <string name="info_stand_tutorias">
-       Oficina De Becas y Tutoria UNI
-    </string>
-
-    <string name="contacto_stand_tutorias">
-  Av. Túpac Amaru 210
-San Martín De Porres, Lima, Peru
-    </string>
-    <string name="pagina_stand_tutorias">http://www.uni.edu.pe/index.php/rss/item/2361-r-r-0388-2017-crease-el-programa-de-becas-y-tutoria-de-la-uni</string>
-
-
-    <string name="nombre_stand_oim">Organización Internacional para las Migraciones</string>
-    <string name="info_stand_oim">
-       La OIM en el Perú está consagrada al principio de que la migración en forma ordenada y en condiciones humanas beneficia a los migrantes y a la sociedad.
-		OIM ha centrado sus labores en asistir, dar apoyo técnico y asesoramiento a los gobiernos, ciudadanos e instituciones sobre gestión migratoria y la defensa de los derechos humanos de los migrantes.
-    </string>
-
-    <string name="contacto_stand_oim">
- Calle Miguel Seminario 320, piso 14, San Isidro
-Teléfono: (511) 6330000
-    </string>
-    <string name="pagina_stand_oim">http://www.oimperu.org/</string>
-
-
-    <string name="nombre_stand_campus">Campus France</string>
-    <string name="info_stand_campus">
-       Campus France Perú es la agencia oficial de promoción de los estudios en Francia. Tiene como misión informar y orientar a todos los estudiantes peruanos que tienen un proyecto de estudios en Francia. Asimismo, Campus France Perú pone a su disposición una plataforma en línea que le permite postular a la mayoría de las Universidades y Escuelas francesas.
-    </string>
-
-    <string name="contacto_stand_campus">
- Alianza francesa de Lima
-Av. Arequipa 4595
-Miraflores
-Lima
-Peru
-Telephone: + 511 610 80 18
-Email:
-info.lima@campusfrance.org
-    </string>
-    <string name="pagina_stand_campus">http://www.perou.campusfrance.org</string>
-
-    <string name="nombre_stand_iaeste">  IAESTE</string>
-    <string name="info_stand_iaeste">
-       IAESTE es un programa a nivel mundial que coordina prácticas pre-profesionales para universitarios en áreas técnicas como Ingeniería y Ciencias fomentando la formación académica, el intercambio cultural y la relación estudiante - empresa.
-
-    </string>
-
-    <string name="contacto_stand_iaeste">
- Teléfono:
-+51 (073) 284522
-Email:
-peru.iaeste@gmail.com
-Dirección:
-Universidad de Piura
-Av. Ramón Mugica 131, Urb. San Eduardo - Perú
-    </string>
-    <string name="pagina_stand_iaeste">http://iaeste.udep.pe/iaesteperu/</string>
-
-    <string name="nombre_stand_usa">EDUCATION USA</string>
-    <string name="info_stand_usa">
-       El Centro de Asesoría Educativa es fuente de información precisa, amplia, y actualizada sobre
-todas las instituciones de educación superior acreditadas en los Estados Unidos.
-    </string>
-
-    <string name="contacto_stand_usa">
- Dirección: Juan Romero Hidalgo 444 - San Borja, Lima 41, Perú
-Teléfonos: 	(51-1) 475-3083
-  	(51-1) 476-0666 	Fax: (51-1) 475-3086
-Email: 	mfernandez@educationusa-peru.info
-    </string>
-    <string name="pagina_stand_usa">http://cursos.educationusa-peru.info/seccion/becas.php</string>
-
-    <string name="nombre_stand_japon">Embajada del Japón</string>
-    <string name="info_stand_japon">
-       El Gobierno del Japón a través de su Ministerio de Educación, Ciencia, Cultura, Deporte y Tecnología: MEXT, ofrece las modalidades de becas de  Posgrado, Pregrado, Técnica y Ocupacional. Las becas son integrales ya que cubre los costos de pasajes, estudios, estadía, etc., por el tiempo que el becario permanezca como tal en el Japón.
-
-    </string>
-
-    <string name="contacto_stand_japon">
-Los asesores de Becas atenderán las dudas e inquietudes del público.
-Horario: Lunes a viernes, 09:00 a 12:00 y 14:00 a 16:30 horas.
-Tel:    219-9538
-Fax:   219-9534
-E-Mail:  becasjapon@li.mofa.go.jp
-    </string>
-    <string name="pagina_stand_japon">http://www.pe.emb-japan.go.jp/itpr_es/00_000261.html</string>
-
-    <string name="nombre_stand_ibero">Ibero Librerías</string>
-    <string name="info_stand_ibero">
-       Ibero Librerias (Ibero A G SAC) es una empresa peruana con 19 años en el mercado nacional. Somos importadores, distribuidores y libreros de importantes sellos editoriales del mundo en exclusiva, por ejemplo, Editorial Everest, Ediciones Larousse, Grupo Editorial Patria Cultural, Ediciones Jaguar, Ediciones Ekaré, Harper Collins, Editorial El Ateneo, Ediciones Diamante, Comercial Grupo Anaya, Editorial Combel, Editorial Páginas de Espuma, Editorial Alma y Groh.
-    </string>
-
-    <string name="contacto_stand_ibero">
-Teléfono: +(511) 242 2798
-
-Correo Electrónico: web@ibero.com.pe
-
-Facebook: https://www.facebook.com/pages/Ibero/102815836447072
-
-Twitter: https://twitter.com/iberolibrerias
-    </string>
-    <string name="pagina_stand_ibero">http://www.iberolibrerias.com/</string>
-
-    <string name="nombre_stand_proyecta">Proyecta UNI</string>
-    <string name="info_stand_proyecta">
-       Premio Proyecta UNI
-    </string>
-
-    <string name="contacto_stand_proyecta">
-http://www.premioproyecta.uni.edu.pe/
-    </string>
-    <string name="pagina_stand_proyecta">http://www.premioproyecta.uni.edu.pe/</string>
-
-    <string name="nombre_stand_inictel">INICTEL UNI</string>
-    <string name="info_stand_inictel">
-       Misión:
-
-Fomentar el desarrollo de la sociedad de la información.
-
-Visión:
-
-Ser una Institución especializada y de excelencia en Telecomunicaciones, generadora de sinergia entre el Estado, la comunidad científica, académica y el sector productivo del país.
-
-Proposito:
-
-Fomentar el uso eficiente, intensivo e inclusivo de las Tecnologías de Información y Comunicaciones, así como el dinamismo de la oferta y demanda de profesionales o servicios especializados de innovación tecnológica, en una sociedad moderna con creciente calidad de vida de la población.
-    </string>
-
-    <string name="contacto_stand_inictel">
-Horario de Atención
-
-Labores Administrativas: Lunes a Viernes 08:30hrs. a 17:00hrs.
-Email
-informes@inictel-uni.edu.pe
-        webmaster@inictel-uni.edu.pe
-Teléfonos
-
-Informes sobre Capacitación: 6261444 / 6261445
-
-Centro de Convenciones - CECOI: 6261443 / 6261441
-
-Informes de Servicios Especializados: 6261426 / 6261454 / 6261455
-
-Dirección de Investigación y Desarrollo Tecnológico: 6261411 / 6261410
-
-Dirección de Capacitación y Transferencia Tecnológica: 6261421 / 6261420
-
-Coordinación de Capacitación: 6261423 / 6261458 / 6261439 / 6261425
-
-Coordinación de Proyectos: 6261424
-
-Coordinación de Gestión de Servicios Tecnológicos: 6261426 / 6261454 / 6261455
-
-Coordinación de Laboratorios y Soporte: 6261427 / 6261453
-
-Oficina de Relaciones Públicas: 6261441 / 6261443 / 6261440
-
-Oficina de Administración: 6261431 / 6261430
-
-Coordinación de Contabilidad: 6261433
-
-Coordinación de Logística: 6261435
-
-Almacén: 6261438
-
-Coordinación de Recursos Humanos: 6261434
-
-Oficina de Planificación y Presupuesto: 6261447 / 6261451
-
-Oficina de Asesoría Legal: 6261407
-
-Organo de Control Interno: 6261449
-Dirección
-Av. San Luis 1771 - San Borja - Lima 41 - Perú
-    </string>
-    <string name="pagina_stand_inictel">http://www.inictel-uni.edu.pe</string>
+    <string name="pagina_uni_ceps">http://www.ceps.uni.edu.pe/</string>
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
