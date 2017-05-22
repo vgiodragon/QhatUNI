@@ -1,0 +1,13 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.smartcity.qhatuni.StandsQhatuni2017.StandsQhatuniFragment">
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recycler_stands"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    </android.support.v7.widget.RecyclerView>
+
+</FrameLayout>
