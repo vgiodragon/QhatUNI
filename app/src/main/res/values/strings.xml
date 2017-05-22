@@ -602,6 +602,384 @@ informes@uni.edu.pe
     </string>
     <string name="pagina_stand_ceps">http://www.ceps.uni.edu.pe/</string>
 
+
+    <string name="nombre_stand_unmsm">Fondo Editorial UNMSM</string>
+    <string name="info_stand_unmsm">
+        El Centro de Producción Fondo Editorial de San Marcos (creado como unidad independiente con RR N.º 03715-R-02 del 3 de junio, 2002) se complace en entregar al público en general un catálogo actualizado con las publicaciones más destacadas por su alto valor científico y humanístico de utilidad para la vida académica y la cultura nacional.
+Cabe destacar que todas nuestras publicaciones anteriores al 2016 han sido exhibidas en los últimos años en ferias nacionales e internacionales como la Feria Internacional del Libro de Lima 2015 y la FIL de Guadalajara 2015.
+    </string>
+    <string name="contacto_stand_unmsm">
+    Calle German Amézaga N° 375
+    4to piso de la Biblioteca Central
+    Ciudad Universitaria,Lima-Perú
+    Telefóno : (51) 619-7000 anexo 7530
+    Email : fondoedit@unmsm.edu.pe
+    </string>
+    <string name="pagina_stand_unmsm">http://www.unmsm.edu.pe/fondoeditorial/</string>
+
+    <string name="nombre_stand_jallalla">Jallalla - Patrimonio Cultural UNI</string>
+    <string name="info_stand_jallalla">
+        Proyecto conformado por autoridades, profesores y alumnos que busca la revalorización de todo el patrimonio cultural de la Universidad Nacional de Ingeniería.
+
+    </string>Teléfono: 4824770 4811070  Anexo 546
+    Correo: cooperacion@uni.edu.pe
+    <string name="contacto_stand_jallalla">
+
+
+    </string>
+    <string name="pagina_stand_jallalla">https://www.facebook.com/jallallaUNI/</string>
+
+    <string name="nombre_stand_upc">Editorial UPC</string>
+    <string name="info_stand_upc">
+       Editorial UPC fue constituida en 1998 con la misión de propiciar la creación y transmisión del conocimiento que genera y fomenta la UPC como aporte al desarrollo de la educación, las ciencias y la cultura en beneficio de la sociedad. Hoy, cuenta con una variedad de obras que reflejan la producción intelectual de sus miembros.
+    </string>
+
+    <string name="contacto_stand_upc">
+ Prolongación Primavera 2390, Monterrico, Santiago de Surco
+Informes para el Proceso de Admisión a la UPC (Postulantes): 313-3333 | Atención a Alumnos de la UPC (Estudiantes) 630-3333
+
+    </string>
+    <string name="pagina_stand_upc">http://contactoweb.upc.edu.pe/</string>
+
+
+    <string name="nombre_stand_planeta"> Planeta de los libros </string>
+    <string name="info_stand_planeta">
+       El Grupo Planeta es el primer grupo editorial y de comunicación español de capital familiar que lidera una amplia oferta al servicio de la cultura, la formación, la información y el entretenimiento audiovisual. Desde la fundación de Editorial Planeta en Barcelona por José Manuel Lara Hernández, en 1949, el Grupo se ha convertido en una multinacional que combina una sólida tradición empresarial con una gran capacidad de innovación y una vocación europea e internacional, con una presencia especialmente destacada en España, Francia, Portugal y América Latina.
+
+    </string>
+
+    <string name="contacto_stand_planeta">
+	PlanetadeLibros.pe
+	Av. Santa Cruz 244, San Isidro
+	Lima
+	Perú
+    </string>
+    <string name="pagina_stand_planeta">http://www.planetadelibros.com.pe/</string>
+
+    <string name="nombre_stand_mir">Libros MIR - Libros URSS</string>
+    <string name="info_stand_mir">
+       Nuestra empresa viene realizando operaciones en la difusión de libros técnicos por más de 35 años. Aquí encontrará un amplio listado de libros en diferentes materias de la prestigiosa editorial soviética Mir Moscú.
+
+    </string>
+
+    <string name="contacto_stand_mir">
+	Jr. Ica N° 441 - Of. 103 - Cercado de Lima
+	| Tel. 51 1 4280448
+    </string>
+    <string name="pagina_stand_mir">http://www.librosmir.com/</string>
+
+
+
+    <string name="nombre_stand_sbs">SBS Librería Internacional</string>
+    <string name="info_stand_sbs">
+Special Book Services Perú fue fundada en 1996 y actualmente cuenta con 33,500 clientes a nivel nacional.
+SBS Perú pertenece al grupo SBS Internacional. SBS Brasil, la Matriz de Special Book Services fue fundada en 1985 con más de 50 mil Clientes y 35 Librerías en las ciudades de Belém, Belo Horizonte, Brasília, Curitiba, Niterói, Porto Alegre, Recife, Rio de Janeiro, Santo André, Santos, São José dos Campos, São Paulo, Uberlândia, Vitória, Salvador, Fortaleza, Juiz de Fora, Goiânia, Florianópolis.
+    </string>
+
+    <string name="contacto_stand_sbs">
+ Dirección
+Av. Angamos Oeste 301, Miraflores
+
+Horario de Atención
+Lunes a Viernes de 9:00 am. - 7:00 pm.
+Sábado: 9:00 am. 12:00 m.
+
+E-mail
+miraflores@sbs.com.pe
+
+Teléfono
+(01) 206-4900 anexo 210
+
+    </string>
+    <string name="pagina_stand_sbs">https://www.sbs.com.pe/</string>
+
+    <string name="nombre_stand_paulinas">Paulinas</string>
+    <string name="info_stand_paulinas">
+ Somos las Hijas de San Pablo, mujeres consagradas a Dios y apóstoles de Jesucristo. Cumplimos 50 años en el Perú, al servicio del Evangelio y la cultura con los medios de comunicación social. También nos llaman Hermanas Paulinas, porque compartimos un "vínculo especial" con el apóstol San Pablo, gran comunicador del Evangelio, en cuyas enseñanzas se inspira nuestra vida, espiritualidad y misión.
+    </string>
+
+    <string name="contacto_stand_paulinas">
+Lima | Cercado
+Jr. Callao 198
+Telf. 427-8276
+eMail librerialima@paulinas.org.pe
+    </string>
+    <string name="pagina_stand_paulinas">http://www.paulinas.org.pe/</string>
+
+
+
+    <string name="nombre_stand_upch">Centro Editorial de la Universidad Peruana Cayetano Heredia</string>
+    <string name="info_stand_upch">
+       El Centro Editorial de la Universidad Peruana Cayetano Heredia es una unidad dependiente de Rectorado que tiene como misión la producción y divulgación mediante diferentes tipos de publicaciones: libros, revistas, boletines, CD y otros medios de difusión y transmisión de conocimientos e información concerniente a las áreas de ciencias de la salud, ciencias y educación. Las publicaciones principalmente provienen de miembros de la comunidad herediana, pero algunas también de personalidades ajenas a la UPCH, tanto nacionales como extranjeras.
+    </string>
+
+    <string name="contacto_stand_upch">
+Av. Honorio Delgado 430 Urb. Ingeniería - SMP (Pabellón Carlos Monge)
+  Teléfono: 3408939
+  ceditorial.libreria@oficinas-upch.pe
+    </string>
+    <string name="pagina_stand_upch">http://ceditorial.cayetano.edu.pe/</string>
+
+
+    <string name="nombre_stand_unalm"> Fondo Editorial de Universidad Nacional Agraria La Molina</string>
+    <string name="info_stand_unalm">
+Nos dedicamos a la formación de profesionales competentes para los sectores agrosilvopecuario, pesquero, alimentario y económico, que se distinguen por ser líderes, proactivos, innovadores, competitivos, con capacidad de gestión y tener compromiso social. Genera, y aplica conocimientos obtenidos de la investigación básica y aplicada para el desarrollo sostenible del país.
+
+    </string>
+
+    <string name="contacto_stand_unalm">
+  	Telf. 674-0062 / 614 7800 anexo 256 |	fondoeditorial@lamolina.edu.pe
+
+    </string>
+    <string name="pagina_stand_unalm">http://www.lamolina.edu.pe/</string>
+
+
+    <string name="nombre_stand_relaciones">Oficina de Relaciones Públicas - UNI </string>
+    <string name="info_stand_relaciones">
+       La Oficina de Relaciones Públicas es un órgano de apoyo de la Universidad, que asiste al Rectorado en las actividades de comunicación e información, siendo su objetivo fortalecer la imagen de la Universidad y lograr su integración e interrelación con los miembros de la comunidad local, nacional e internacional así como promover y desarrollar el sistema de comunicación e información de la UNI.
+    </string>
+
+    <string name="contacto_stand_relaciones">
+ Av. Túpac Amaru 210
+San Martín De Porres, Lima, Peru
+    </string>
+    <string name="pagina_stand_relaciones">http://rrppuni.blogspot.pe/</string>
+
+
+    <string name="nombre_stand_caral">ZONA ARQUEOLÓGICA CARAL</string>
+    <string name="info_stand_caral">
+ La Zona Arqueológica Caral (ZAC) es una entidad pública creada por el Decreto Supremo N° 003-2003-ED del 14 de febrero de 2003, refrendado por la Ley N° 28690 del 18 de marzo de 2006, que cuenta con plena autonomía de gestión científica, administrativa y financiera. Desde julio de 2010 se encuentra adscrita al Ministerio de Cultura, como Unidad Ejecutora 003.
+    </string>
+
+    <string name="contacto_stand_caral">
+    Av. Las Lomas de la Molina N° 327
+    Urb. Las Lomas de la Molina Vieja
+    La Molina, Lima - Perú
+    Central Telefónica : (01)205-2500
+    Email : webmaster@zonacaral.gob.pe
+    </string>
+    <string name="pagina_stand_caral">http://www.zonacaral.gob.pe/publicaciones/</string>
+
+
+    <string name="nombre_stand_cer">Centro de energías renovables y uso racional de la energía</string>
+    <string name="info_stand_cer">
+       Centro de energías renovables y uso racional de la energía
+    </string>
+
+    <string name="contacto_stand_cer">
+ (01) 4811070
+ Av. Túpac Amaru 210
+San Martín De Porres, Lima, Peru
+    </string>
+    <string name="pagina_stand_cer">http://cer.uni.edu.pe/index-2.html</string>
+
+    <string name="nombre_stand_citrar">Centro de Investigación en Tratamiento de Aguas Residuales y Residuos Peligrosos</string>
+    <string name="info_stand_citrar">
+El Centro de Investigación en Tratamiento de Aguas Residuales y Residuos Peligrosos - CITRAR-UNI se incia en el año 2011 lo que hasta entonces era la Planta Piloto de Tratamiento de Aguas residuales de la Universidad Nacional de Ingeniería (UNITRAR), que entro en funcionamiento en enero de 1996. CITRAR-UNI tiene el proposito de propiciar la investigación científica, con tendencia a buscar alternativas técnicas de solución de bajo costo a la problematica del tratamiento, disposición y reúso inadecuado de las aguas residuales y residuos peligrosos en el Peru.
+
+    </string>
+
+    <string name="contacto_stand_citrar">
+  Dirección  :
+Av. Tupac Amaru S/N Rímac, Puerta Nº 7 de la Universidad Nacional de Ingeniería
+(Al costado de Metro)
+Email :
+citrar@uni.edu.pe
+Teléfono :
+ (511) 481-1070 Anexo. 581
+    </string>
+    <string name="pagina_stand_citrar">http://fiauni.pe/site/index.php/dependencias/citrar</string>
+
+    <string name="nombre_stand_igi">Intituto General de Investigación</string>
+    <string name="info_stand_igi">
+       El Instituto General de Investigación, promueve la  investigación entre investigadores de las diferentes  Facultades de la Universidad, formando grupos interdisciplinarios, para que trabajen conjuntamente en la solución  de un problema puntual en líneas de investigación que sintonicen con las necesidades del Perú.
+
+    </string>
+
+    <string name="contacto_stand_igi">
+ Av. Tupac Amaru 210, Rimac, Lima | 511 481 1070 - anexo 7852 | igi@uni.edu.pe
+
+    </string>
+    <string name="pagina_stand_igi">http://igi.uni.edu.pe/portal/en/</string>
+
+    <string name="nombre_stand_tutorias">Oficina De Becas y Tutoria UNI</string>
+    <string name="info_stand_tutorias">
+       Oficina De Becas y Tutoria UNI
+    </string>
+
+    <string name="contacto_stand_tutorias">
+  Av. Túpac Amaru 210
+San Martín De Porres, Lima, Peru
+    </string>
+    <string name="pagina_stand_tutorias">http://www.uni.edu.pe/index.php/rss/item/2361-r-r-0388-2017-crease-el-programa-de-becas-y-tutoria-de-la-uni</string>
+
+
+    <string name="nombre_stand_oim">Organización Internacional para las Migraciones</string>
+    <string name="info_stand_oim">
+       La OIM en el Perú está consagrada al principio de que la migración en forma ordenada y en condiciones humanas beneficia a los migrantes y a la sociedad.
+		OIM ha centrado sus labores en asistir, dar apoyo técnico y asesoramiento a los gobiernos, ciudadanos e instituciones sobre gestión migratoria y la defensa de los derechos humanos de los migrantes.
+    </string>
+
+    <string name="contacto_stand_oim">
+ Calle Miguel Seminario 320, piso 14, San Isidro
+Teléfono: (511) 6330000
+    </string>
+    <string name="pagina_stand_oim">http://www.oimperu.org/</string>
+
+
+    <string name="nombre_stand_campus">Campus France</string>
+    <string name="info_stand_campus">
+       Campus France Perú es la agencia oficial de promoción de los estudios en Francia. Tiene como misión informar y orientar a todos los estudiantes peruanos que tienen un proyecto de estudios en Francia. Asimismo, Campus France Perú pone a su disposición una plataforma en línea que le permite postular a la mayoría de las Universidades y Escuelas francesas.
+    </string>
+
+    <string name="contacto_stand_campus">
+ Alianza francesa de Lima
+Av. Arequipa 4595
+Miraflores
+Lima
+Peru
+Telephone: + 511 610 80 18
+Email:
+info.lima@campusfrance.org
+    </string>
+    <string name="pagina_stand_campus">http://www.perou.campusfrance.org</string>
+
+    <string name="nombre_stand_iaeste">  IAESTE</string>
+    <string name="info_stand_iaeste">
+       IAESTE es un programa a nivel mundial que coordina prácticas pre-profesionales para universitarios en áreas técnicas como Ingeniería y Ciencias fomentando la formación académica, el intercambio cultural y la relación estudiante - empresa.
+
+    </string>
+
+    <string name="contacto_stand_iaeste">
+ Teléfono:
++51 (073) 284522
+Email:
+peru.iaeste@gmail.com
+Dirección:
+Universidad de Piura
+Av. Ramón Mugica 131, Urb. San Eduardo - Perú
+    </string>
+    <string name="pagina_stand_iaeste">http://iaeste.udep.pe/iaesteperu/</string>
+
+    <string name="nombre_stand_usa">EDUCATION USA</string>
+    <string name="info_stand_usa">
+       El Centro de Asesoría Educativa es fuente de información precisa, amplia, y actualizada sobre
+todas las instituciones de educación superior acreditadas en los Estados Unidos.
+    </string>
+
+    <string name="contacto_stand_usa">
+ Dirección: Juan Romero Hidalgo 444 - San Borja, Lima 41, Perú
+Teléfonos: 	(51-1) 475-3083
+  	(51-1) 476-0666 	Fax: (51-1) 475-3086
+Email: 	mfernandez@educationusa-peru.info
+    </string>
+    <string name="pagina_stand_usa">http://cursos.educationusa-peru.info/seccion/becas.php</string>
+
+    <string name="nombre_stand_japon">Embajada del Japón</string>
+    <string name="info_stand_japon">
+       El Gobierno del Japón a través de su Ministerio de Educación, Ciencia, Cultura, Deporte y Tecnología: MEXT, ofrece las modalidades de becas de  Posgrado, Pregrado, Técnica y Ocupacional. Las becas son integrales ya que cubre los costos de pasajes, estudios, estadía, etc., por el tiempo que el becario permanezca como tal en el Japón.
+
+    </string>
+
+    <string name="contacto_stand_japon">
+Los asesores de Becas atenderán las dudas e inquietudes del público.
+Horario: Lunes a viernes, 09:00 a 12:00 y 14:00 a 16:30 horas.
+Tel:    219-9538
+Fax:   219-9534
+E-Mail:  becasjapon@li.mofa.go.jp
+    </string>
+    <string name="pagina_stand_japon">http://www.pe.emb-japan.go.jp/itpr_es/00_000261.html</string>
+
+    <string name="nombre_stand_ibero">Ibero Librerías</string>
+    <string name="info_stand_ibero">
+       Ibero Librerias (Ibero A G SAC) es una empresa peruana con 19 años en el mercado nacional. Somos importadores, distribuidores y libreros de importantes sellos editoriales del mundo en exclusiva, por ejemplo, Editorial Everest, Ediciones Larousse, Grupo Editorial Patria Cultural, Ediciones Jaguar, Ediciones Ekaré, Harper Collins, Editorial El Ateneo, Ediciones Diamante, Comercial Grupo Anaya, Editorial Combel, Editorial Páginas de Espuma, Editorial Alma y Groh.
+    </string>
+
+    <string name="contacto_stand_ibero">
+Teléfono: +(511) 242 2798
+
+Correo Electrónico: web@ibero.com.pe
+
+Facebook: https://www.facebook.com/pages/Ibero/102815836447072
+
+Twitter: https://twitter.com/iberolibrerias
+    </string>
+    <string name="pagina_stand_ibero">http://www.iberolibrerias.com/</string>
+
+    <string name="nombre_stand_proyecta">Proyecta UNI</string>
+    <string name="info_stand_proyecta">
+       Premio Proyecta UNI
+    </string>
+
+    <string name="contacto_stand_proyecta">
+http://www.premioproyecta.uni.edu.pe/
+    </string>
+    <string name="pagina_stand_proyecta">http://www.premioproyecta.uni.edu.pe/</string>
+
+    <string name="nombre_stand_inictel">INICTEL UNI</string>
+    <string name="info_stand_inictel">
+       Misión:
+
+Fomentar el desarrollo de la sociedad de la información.
+
+Visión:
+
+Ser una Institución especializada y de excelencia en Telecomunicaciones, generadora de sinergia entre el Estado, la comunidad científica, académica y el sector productivo del país.
+
+Proposito:
+
+Fomentar el uso eficiente, intensivo e inclusivo de las Tecnologías de Información y Comunicaciones, así como el dinamismo de la oferta y demanda de profesionales o servicios especializados de innovación tecnológica, en una sociedad moderna con creciente calidad de vida de la población.
+    </string>
+
+    <string name="contacto_stand_inictel">
+Horario de Atención
+
+Labores Administrativas: Lunes a Viernes 08:30hrs. a 17:00hrs.
+Email
+informes@inictel-uni.edu.pe
+        webmaster@inictel-uni.edu.pe
+Teléfonos
+
+Informes sobre Capacitación: 6261444 / 6261445
+
+Centro de Convenciones - CECOI: 6261443 / 6261441
+
+Informes de Servicios Especializados: 6261426 / 6261454 / 6261455
+
+Dirección de Investigación y Desarrollo Tecnológico: 6261411 / 6261410
+
+Dirección de Capacitación y Transferencia Tecnológica: 6261421 / 6261420
+
+Coordinación de Capacitación: 6261423 / 6261458 / 6261439 / 6261425
+
+Coordinación de Proyectos: 6261424
+
+Coordinación de Gestión de Servicios Tecnológicos: 6261426 / 6261454 / 6261455
+
+Coordinación de Laboratorios y Soporte: 6261427 / 6261453
+
+Oficina de Relaciones Públicas: 6261441 / 6261443 / 6261440
+
+Oficina de Administración: 6261431 / 6261430
+
+Coordinación de Contabilidad: 6261433
+
+Coordinación de Logística: 6261435
+
+Almacén: 6261438
+
+Coordinación de Recursos Humanos: 6261434
+
+Oficina de Planificación y Presupuesto: 6261447 / 6261451
+
+Oficina de Asesoría Legal: 6261407
+
+Organo de Control Interno: 6261449
+Dirección
+Av. San Luis 1771 - San Borja - Lima 41 - Perú
+    </string>
+    <string name="pagina_stand_inictel">http://www.inictel-uni.edu.pe</string>
+
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="title_activity_maps">Map</string>

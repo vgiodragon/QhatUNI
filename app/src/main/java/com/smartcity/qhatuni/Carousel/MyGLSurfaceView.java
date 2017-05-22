@@ -58,66 +58,6 @@ public class MyGLSurfaceView extends GLSurfaceView {
 
 
         zonasBeacon = new ArrayList<>();
-        zonasBeacon.add(new ZonaBeacon("C3:B7:4E:8D:D1:E8",//Blanco
-                new CEditorial[]{new CEditorial(R.drawable.tsancristobal, R.drawable.dsancristobal, "sc", r / 3),
-                        new CEditorial(R.drawable.tvyt, R.drawable.dcorporativo, "cvt", r / 3),
-                        new CEditorial(R.drawable.tonpe, R.drawable.donpe, "onpe", r / 3)}));
-
-        zonasBeacon.add(new ZonaBeacon("CF:74:81:B1:FE:70",//Bea03
-                new CEditorial[]{new CEditorial(R.drawable.tsociedadbiblica,R.drawable.dlafamilia, "eduni", r / 3),
-                        new CEditorial(R.drawable.talianza,R.drawable.deduni, "af", r / 3),///desalianza
-                        new CEditorial(R.drawable.tmunibecas, R.drawable.dmunibecas, "muni", r / 3)}));
-
-        zonasBeacon.add(new ZonaBeacon("E2:FF:F0:DA:B1:8B",//Bea02
-                new CEditorial[]{
-                        new CEditorial(R.drawable.pronabec,R.drawable.dpronabec, "pronabec", r / 3),//falta pronabec
-                        new CEditorial(R.drawable.tfulbright,R.drawable.dfulbright, "fulbright", r / 3),
-                        new CEditorial(R.drawable.santander, R.drawable.dsantander, "sa", r / 3)  ///FALTA becas!!
-                }));
-
-        zonasBeacon.add(new ZonaBeacon("DC:DD:8D:43:9F:8B",//Bea01
-                new CEditorial[]{
-                        new CEditorial(R.drawable.posgrado,R.drawable.dposgrado, "posgrado", r / 3),
-                        new CEditorial(R.drawable.tbeca,R.drawable.dbeca, "beca18", r / 3),
-                        new CEditorial(R.drawable.cepre, R.drawable.dcepre, "cepre", r / 3)}));
-
-        zonasBeacon.add(new ZonaBeacon("C8:1E:15:D5:68:FC",//Be06
-                new CEditorial[]{
-                        new CEditorial(R.drawable.tullpi,R.drawable.dtullpi, "tullpi", r / 3),
-                        new CEditorial(R.drawable.admision,R.drawable.dadmision, "ocad", r / 3),
-                        new CEditorial(R.drawable.toficinacentral, R.drawable.dcooperacion, "occic", r / 3)}));///falta cooperacion
-
-        zonasBeacon.add(new ZonaBeacon("F6:91:19:70:6A:4E",//Be01
-                new CEditorial[]{
-                        new CEditorial(R.drawable.teduni,R.drawable.deduni, "eduni", r / 3),
-                        new CEditorial(R.drawable.tlibun,R.drawable.dlibun, "ll", r / 3),
-                        new CEditorial(R.drawable.tarcadia,R.drawable.darcadia, "la", r / 3)}));
-
-        zonasBeacon.add(new ZonaBeacon("F9:47:58:EB:AC:A0",//Be02
-                new CEditorial[]{
-                        new CEditorial(R.drawable.theraldosnegros, R.drawable.dheraldosnegros, "dhn", r / 3),
-                        new CEditorial(R.drawable.tpucp,R.drawable.dpucp, "pucp", r / 3),
-                        new CEditorial(R.drawable.tminibooks,R.drawable.dminibooks, "mb", r / 3)}));
-
-        zonasBeacon.add(new ZonaBeacon("CC:1E:66:4C:E6:93",//Be03
-                new CEditorial[]{
-                        new CEditorial(R.drawable.tmancomunidad, R.drawable.dmancomunidad, "mcln", r / 3),
-                        new CEditorial(R.drawable.ingenieros,R.drawable.dingenieros, "cip", r / 3),
-                        new CEditorial(R.drawable.tfondocultura, R.drawable.dfondodecultura, "fce", r / 3)}));
-
-        zonasBeacon.add(new ZonaBeacon("E2:BE:2C:EC:C0:E2",//Be04
-                new CEditorial[]{
-                        new CEditorial(R.drawable.tlafamilia,R.drawable.dlafamilia, "llf", r / 3),////ACA DESCRIP!!!!
-                        new CEditorial(R.drawable.tmacro, R.drawable.dmacro, "eirl", r / 3),
-                        new CEditorial(R.drawable.tlumbreras, R.drawable.dlumbreras, "lumbre", r / 3)////ACA DESCRIP!!!!
-                }));
-
-        zonasBeacon.add(new ZonaBeacon("EA:C6:29:5F:32:4C",//Be05
-                new CEditorial[]{
-                        new CEditorial(R.drawable.cydma, R.drawable.dcydma, "cydma", r / 3),
-                        new CEditorial(R.drawable.treverte, R.drawable.dreverte, "ersa", r / 3),
-                        new CEditorial(R.drawable.torem, R.drawable.dorem, "eo", r / 3)}));
-
 
         renderer = new MyGLRenderer(context,r,zonasBeacon);
         height = h;

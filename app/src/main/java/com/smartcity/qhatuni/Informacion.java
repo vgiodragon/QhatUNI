@@ -64,7 +64,7 @@ public class Informacion {
             listaEditoriales.add(new Editorial("Fondo de Cultura Económica","(51) 447-2848","Calle Berlin 238, Miraflores, Lima", R.drawable.tfondocultura));
             listaEditoriales.add(new Editorial("Libreria La Familia","242-3900","A. Oscar R. Benavides (Ex diagonal) 372-374, Lima", R.drawable.tlafamilia));
             listaEditoriales.add(new Editorial("Editorial Macro EIRL","748-0560","Av. Paseo de la Republica Nro 5613, Miraflores, Lima", R.drawable.macro));
-            listaEditoriales.add(new Editorial("Lumbreras Editores","01-332-3786","Av. Alfonso ugarte 1426, Breña, Lima (1 cuadra de Plaza Bolognesi)", R.drawable.tlumbreras));
+            listaEditoriales.add(new Editorial("Lumbreras Editores","01-332-3786","Av. Alfonso ugarte 1426, Breña, Lima (1 cuadra de Plaza Bolognesi)", R.drawable.lumbreras));
             listaEditoriales.add(new Editorial("Corporativo VyT","434-5508","Av. Canadá 3820, Lima 15021", R.drawable.vyt));
             listaEditoriales.add(new Editorial("CYDMA TECH SAC","423-1461","Jr. Enrique Barrón N°993 Of. 204, Urb. Santa Beatriz-Lima Cercado. Perú", R.drawable.cydma));
             listaEditoriales.add(new Editorial("Editorial Reverte - Distribuidor Special Books Service","(511) 206-4900","Av. Angamos Oeste Nº 301, Lima", R.drawable.treverte));
